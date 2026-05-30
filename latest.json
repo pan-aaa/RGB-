@@ -1,0 +1,37 @@
+﻿{
+    "generatedAtUtc":  "2026-05-30T15:19:10.5343186Z",
+    "app":  {
+                "release":  {
+                                "versionName":  "1.5.2",
+                                "versionCode":  23,
+                                "relativePath":  "payload/app-controller/app/build/outputs/apk/release/RGBController-release-1.5.2-23-20260530_2107.apk",
+                                "sha256":  "4547a8d69a3c3ab46c53aa0276c6bcd112dbb4c37a2f59fc1341b486d32b0d64",
+                                "sizeBytes":  11003884,
+                                "rawUrl":  "https://gitee.com/cat-fishing-fish/light-control/raw/master/payload/app-controller/app/build/outputs/apk/release/RGBController-release-1.5.2-23-20260530_2107.apk"
+                            },
+                "debug":  {
+                              "versionName":  "1.5.2",
+                              "versionCode":  23,
+                              "relativePath":  "payload/app-controller/app/build/outputs/apk/debug/RGBController-debug-1.5.2-23-20260530_2107.apk",
+                              "sha256":  "e6434f700fc762f6769f514cebd9c18521d125ecf1610c4088123cd97a7d86eb",
+                              "sizeBytes":  13128140,
+                              "rawUrl":  "https://gitee.com/cat-fishing-fish/light-control/raw/master/payload/app-controller/app/build/outputs/apk/debug/RGBController-debug-1.5.2-23-20260530_2107.apk"
+                          }
+            },
+    "firmware":  {
+                     "esp32S3":  {
+                                     "version":  "3.4.3_260530_2318",
+                                     "relativePath":  "payload/esp32-s3-supermini-rgb-control/build/esp32.esp32.esp32s3/esp32-s3-supermini-rgb-control.ino.bin",
+                                     "sha256":  "02c82cc82ee16bd88d1b8893db937d0839ccccad7636f298e8d17936c497ab94",
+                                     "sizeBytes":  1107296,
+                                     "rawUrl":  "https://gitee.com/cat-fishing-fish/light-control/raw/master/payload/esp32-s3-supermini-rgb-control/build/esp32.esp32.esp32s3/esp32-s3-supermini-rgb-control.ino.bin"
+                                 },
+                     "esp8266Esp01s":  {
+                                           "version":  "1.0.0-esp8266-port-",
+                                           "relativePath":  "payload/esp8266-esp01s-rgb-control/build/esp8266.esp8266.generic/esp8266-esp01s-rgb-control.ino.bin",
+                                           "sha256":  "2da294f47fe0895f88422ec35af37c6b6f6b2a826447cae7f93ef82041217b11",
+                                           "sizeBytes":  339808,
+                                           "rawUrl":  "https://gitee.com/cat-fishing-fish/light-control/raw/master/payload/esp8266-esp01s-rgb-control/build/esp8266.esp8266.generic/esp8266-esp01s-rgb-control.ino.bin"
+                                       }
+                 }
+}
