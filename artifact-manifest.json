@@ -1,0 +1,828 @@
+﻿{
+    "sourceRepo":  {
+                       "path":  "D:\\esp32\\web-wifis-RGB-ok",
+                       "remote":  "git@gitee.com:cat-fishing-fish/web-wifis-rgb-ok.git",
+                       "branch":  "master",
+                       "commit":  "e709439019d336bafe45056261c7f268ffb0a878"
+                   },
+    "syncedAtUtc":  "2026-05-30T14:48:56.4810513Z",
+    "artifactCount":  136,
+    "files":  [
+                  {
+                      "relativePath":  "build/codex-version-fallback-check/esp32-s3-supermini-rgb-control.ino.partitions.bin",
+                      "sizeBytes":  3072,
+                      "lastWriteUtc":  "2026-05-30T14:18:23.8215155Z",
+                      "sha256":  "148b959cbff1c38aa8e1d5c0ba9d612c54997b945e56a63f41223eef650653a1"
+                  },
+                  {
+                      "relativePath":  "build/codex-version-fallback-check/esp32-s3-supermini-rgb-control.ino.merged.bin",
+                      "sizeBytes":  4194304,
+                      "lastWriteUtc":  "2026-05-30T14:18:23.8165968Z",
+                      "sha256":  "2dfdade26a128e4f2e9d78a4d00c9425701a1a06eafb2d54a1baa1bdfc44ebba"
+                  },
+                  {
+                      "relativePath":  "build/codex-version-fallback-check/esp32-s3-supermini-rgb-control.ino.bootloader.bin",
+                      "sizeBytes":  19984,
+                      "lastWriteUtc":  "2026-05-30T14:18:23.7557578Z",
+                      "sha256":  "670896258d62395f1986940214cc4a3223d1b05ab90f43666ec6a712639de516"
+                  },
+                  {
+                      "relativePath":  "build/codex-version-fallback-check/esp32-s3-supermini-rgb-control.ino.bin",
+                      "sizeBytes":  1107296,
+                      "lastWriteUtc":  "2026-05-30T14:18:23.7446359Z",
+                      "sha256":  "02c82cc82ee16bd88d1b8893db937d0839ccccad7636f298e8d17936c497ab94"
+                  },
+                  {
+                      "relativePath":  "build/codex-ontmp-check-verbose/esp32-s3-supermini-rgb-control.ino.partitions.bin",
+                      "sizeBytes":  3072,
+                      "lastWriteUtc":  "2026-05-30T12:04:42.0227449Z",
+                      "sha256":  "148b959cbff1c38aa8e1d5c0ba9d612c54997b945e56a63f41223eef650653a1"
+                  },
+                  {
+                      "relativePath":  "build/codex-ontmp-check-verbose/esp32-s3-supermini-rgb-control.ino.merged.bin",
+                      "sizeBytes":  4194304,
+                      "lastWriteUtc":  "2026-05-30T12:04:42.0173644Z",
+                      "sha256":  "0ccf45c641734e70c6953b8be1a12c5029693522b6c97ab0b085d65b216afb39"
+                  },
+                  {
+                      "relativePath":  "build/codex-ontmp-check-verbose/esp32-s3-supermini-rgb-control.ino.bootloader.bin",
+                      "sizeBytes":  19984,
+                      "lastWriteUtc":  "2026-05-30T12:04:41.9213696Z",
+                      "sha256":  "670896258d62395f1986940214cc4a3223d1b05ab90f43666ec6a712639de516"
+                  },
+                  {
+                      "relativePath":  "build/codex-ontmp-check-verbose/esp32-s3-supermini-rgb-control.ino.bin",
+                      "sizeBytes":  1103088,
+                      "lastWriteUtc":  "2026-05-30T12:04:41.9171222Z",
+                      "sha256":  "1088ecd92da338e74dd284ac60b6f179ab9028f62ebb57a9ec6ecbaec8b43d24"
+                  },
+                  {
+                      "relativePath":  "build/codex-defaultcolor-check/esp32-s3-supermini-rgb-control.ino.partitions.bin",
+                      "sizeBytes":  3072,
+                      "lastWriteUtc":  "2026-05-30T13:06:13.5117433Z",
+                      "sha256":  "148b959cbff1c38aa8e1d5c0ba9d612c54997b945e56a63f41223eef650653a1"
+                  },
+                  {
+                      "relativePath":  "build/codex-defaultcolor-check/esp32-s3-supermini-rgb-control.ino.merged.bin",
+                      "sizeBytes":  4194304,
+                      "lastWriteUtc":  "2026-05-30T13:06:13.5055322Z",
+                      "sha256":  "22d4de70d5398922b023143f9bd2a795e4987b4e69ad2261a3ab20a0167dab68"
+                  },
+                  {
+                      "relativePath":  "build/codex-defaultcolor-check/esp32-s3-supermini-rgb-control.ino.bootloader.bin",
+                      "sizeBytes":  19984,
+                      "lastWriteUtc":  "2026-05-30T13:06:13.3825764Z",
+                      "sha256":  "670896258d62395f1986940214cc4a3223d1b05ab90f43666ec6a712639de516"
+                  },
+                  {
+                      "relativePath":  "build/codex-defaultcolor-check/esp32-s3-supermini-rgb-control.ino.bin",
+                      "sizeBytes":  1106704,
+                      "lastWriteUtc":  "2026-05-30T13:06:13.3757067Z",
+                      "sha256":  "7b2405660eef259a35cc20e0b157e08d07aadd034eabc23fb17bd415e9b8b6ab"
+                  },
+                  {
+                      "relativePath":  "build/codex-defaultcolor-check-2/esp32-s3-supermini-rgb-control.ino.bin",
+                      "sizeBytes":  1106704,
+                      "lastWriteUtc":  "2026-05-30T13:06:13.3762146Z",
+                      "sha256":  "7b2405660eef259a35cc20e0b157e08d07aadd034eabc23fb17bd415e9b8b6ab"
+                  },
+                  {
+                      "relativePath":  "build/codex-defaultcolor-check-2/esp32-s3-supermini-rgb-control.ino.bootloader.bin",
+                      "sizeBytes":  19984,
+                      "lastWriteUtc":  "2026-05-30T13:06:13.3839003Z",
+                      "sha256":  "670896258d62395f1986940214cc4a3223d1b05ab90f43666ec6a712639de516"
+                  },
+                  {
+                      "relativePath":  "build/codex-defaultcolor-check-2/esp32-s3-supermini-rgb-control.ino.partitions.bin",
+                      "sizeBytes":  3072,
+                      "lastWriteUtc":  "2026-05-30T13:06:13.5346648Z",
+                      "sha256":  "148b959cbff1c38aa8e1d5c0ba9d612c54997b945e56a63f41223eef650653a1"
+                  },
+                  {
+                      "relativePath":  "build/codex-defaultcolor-check-2/esp32-s3-supermini-rgb-control.ino.merged.bin",
+                      "sizeBytes":  4194304,
+                      "lastWriteUtc":  "2026-05-30T13:06:13.5290815Z",
+                      "sha256":  "22d4de70d5398922b023143f9bd2a795e4987b4e69ad2261a3ab20a0167dab68"
+                  },
+                  {
+                      "relativePath":  "esp8266-esp01s-rgb-control/build/esp8266.esp8266.generic/esp8266-esp01s-rgb-control.ino.bin",
+                      "sizeBytes":  339808,
+                      "lastWriteUtc":  "2026-05-24T15:34:47.1490669Z",
+                      "sha256":  "2da294f47fe0895f88422ec35af37c6b6f6b2a826447cae7f93ef82041217b11"
+                  },
+                  {
+                      "relativePath":  "esp32-s3-supermini-rgb-control/build/test-hook/esp32-s3-supermini-rgb-control.ino.partitions.bin",
+                      "sizeBytes":  3072,
+                      "lastWriteUtc":  "2026-05-10T15:36:29.9978439Z",
+                      "sha256":  "148b959cbff1c38aa8e1d5c0ba9d612c54997b945e56a63f41223eef650653a1"
+                  },
+                  {
+                      "relativePath":  "esp32-s3-supermini-rgb-control/build/test-hook/esp32-s3-supermini-rgb-control.ino.merged.bin",
+                      "sizeBytes":  4194304,
+                      "lastWriteUtc":  "2026-05-10T15:36:29.9865870Z",
+                      "sha256":  "fa8a10db76ac2bcb0cc85c8d2ef97ebc108117989dbf26709ed133cdbd108bda"
+                  },
+                  {
+                      "relativePath":  "esp32-s3-supermini-rgb-control/build/test-hook/esp32-s3-supermini-rgb-control.ino.bootloader.bin",
+                      "sizeBytes":  19984,
+                      "lastWriteUtc":  "2026-05-10T15:36:29.6127043Z",
+                      "sha256":  "670896258d62395f1986940214cc4a3223d1b05ab90f43666ec6a712639de516"
+                  },
+                  {
+                      "relativePath":  "esp32-s3-supermini-rgb-control/build/test-hook/esp32-s3-supermini-rgb-control.ino.bin",
+                      "sizeBytes":  1098464,
+                      "lastWriteUtc":  "2026-05-10T15:36:29.4777089Z",
+                      "sha256":  "1396c6b41c4db3af24f1bd02335824afdf0eb5fc65fa1e07114f24b2f313c39a"
+                  },
+                  {
+                      "relativePath":  "esp32-s3-supermini-rgb-control/build/esp32.esp32.esp32s3/esp32-s3-supermini-rgb-control.ino.partitions.bin",
+                      "sizeBytes":  3072,
+                      "lastWriteUtc":  "2026-05-30T14:18:22.0462030Z",
+                      "sha256":  "148b959cbff1c38aa8e1d5c0ba9d612c54997b945e56a63f41223eef650653a1"
+                  },
+                  {
+                      "relativePath":  "esp32-s3-supermini-rgb-control/build/esp32.esp32.esp32s3/esp32-s3-supermini-rgb-control.ino.merged.bin",
+                      "sizeBytes":  4194304,
+                      "lastWriteUtc":  "2026-05-30T14:18:23.2594204Z",
+                      "sha256":  "2dfdade26a128e4f2e9d78a4d00c9425701a1a06eafb2d54a1baa1bdfc44ebba"
+                  },
+                  {
+                      "relativePath":  "esp32-s3-supermini-rgb-control/build/esp32.esp32.esp32s3/esp32-s3-supermini-rgb-control.ino.bootloader.bin",
+                      "sizeBytes":  19984,
+                      "lastWriteUtc":  "2026-05-30T14:05:26.3302619Z",
+                      "sha256":  "670896258d62395f1986940214cc4a3223d1b05ab90f43666ec6a712639de516"
+                  },
+                  {
+                      "relativePath":  "esp32-s3-supermini-rgb-control/build/esp32.esp32.esp32s3/esp32-s3-supermini-rgb-control.ino.bin",
+                      "sizeBytes":  1107296,
+                      "lastWriteUtc":  "2026-05-30T14:18:21.2556687Z",
+                      "sha256":  "02c82cc82ee16bd88d1b8893db937d0839ccccad7636f298e8d17936c497ab94"
+                  },
+                  {
+                      "relativePath":  "esp32-s3-supermini-rgb-control/build/esp32.esp32.esp32s3/boot_app0.bin",
+                      "sizeBytes":  8192,
+                      "lastWriteUtc":  "2026-03-11T23:19:50.1163623Z",
+                      "sha256":  "f94c5d786a7a8fab06ac5d10e33bf37711a6697636dc037559ea19cc410a17f0"
+                  },
+                  {
+                      "relativePath":  "esp32-s3-supermini-rgb-control/build/codex-review-usb/esp32-s3-supermini-rgb-control.ino.bootloader.bin",
+                      "sizeBytes":  19984,
+                      "lastWriteUtc":  "2026-05-12T15:34:25.8048657Z",
+                      "sha256":  "670896258d62395f1986940214cc4a3223d1b05ab90f43666ec6a712639de516"
+                  },
+                  {
+                      "relativePath":  "esp32-s3-supermini-rgb-control/build/codex-review-usb/esp32-s3-supermini-rgb-control.ino.bin",
+                      "sizeBytes":  1109632,
+                      "lastWriteUtc":  "2026-05-12T15:44:51.2703706Z",
+                      "sha256":  "1f0b4ea730d3d9d83975bc2efb6719295201a7d22742db093c76ff170173149a"
+                  },
+                  {
+                      "relativePath":  "esp32-s3-supermini-rgb-control/build/codex-review-usb/esp32-s3-supermini-rgb-control.ino.partitions.bin",
+                      "sizeBytes":  3072,
+                      "lastWriteUtc":  "2026-05-12T15:44:52.0761215Z",
+                      "sha256":  "148b959cbff1c38aa8e1d5c0ba9d612c54997b945e56a63f41223eef650653a1"
+                  },
+                  {
+                      "relativePath":  "esp32-s3-supermini-rgb-control/build/codex-review-usb/esp32-s3-supermini-rgb-control.ino.merged.bin",
+                      "sizeBytes":  4194304,
+                      "lastWriteUtc":  "2026-05-12T15:44:53.1440699Z",
+                      "sha256":  "a84a26032471de726d269efbb3e7c3546168396d01d16eebc259b50a3c63cb10"
+                  },
+                  {
+                      "relativePath":  "esp32-s3-supermini-rgb-control/build/codex-verify/esp32-s3-supermini-rgb-control.ino.bin",
+                      "sizeBytes":  1099936,
+                      "lastWriteUtc":  "2026-05-11T13:58:25.1161481Z",
+                      "sha256":  "4f9e347137484fa36d795d195b0dd3a45c9dc8cebb3eaab68a35fdf1f9d44455"
+                  },
+                  {
+                      "relativePath":  "esp32-s3-supermini-rgb-control/build/codex-verify/esp32-s3-supermini-rgb-control.ino.partitions.bin",
+                      "sizeBytes":  3072,
+                      "lastWriteUtc":  "2026-05-11T13:58:25.7034318Z",
+                      "sha256":  "148b959cbff1c38aa8e1d5c0ba9d612c54997b945e56a63f41223eef650653a1"
+                  },
+                  {
+                      "relativePath":  "esp32-s3-supermini-rgb-control/build/codex-verify/esp32-s3-supermini-rgb-control.ino.merged.bin",
+                      "sizeBytes":  4194304,
+                      "lastWriteUtc":  "2026-05-11T13:58:26.6294811Z",
+                      "sha256":  "bd827fa47257651618c89f64afacf95d48ef6b067141c8646184e4b2e197de6f"
+                  },
+                  {
+                      "relativePath":  "esp32-s3-supermini-rgb-control/build/codex-verify/esp32-s3-supermini-rgb-control.ino.bootloader.bin",
+                      "sizeBytes":  19984,
+                      "lastWriteUtc":  "2026-05-11T13:57:00.1904712Z",
+                      "sha256":  "670896258d62395f1986940214cc4a3223d1b05ab90f43666ec6a712639de516"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-serial-sse-fix2/esp32-s3-supermini-rgb-control.ino.partitions.bin",
+                      "sizeBytes":  3072,
+                      "lastWriteUtc":  "2026-04-04T15:31:24.5597195Z",
+                      "sha256":  "148b959cbff1c38aa8e1d5c0ba9d612c54997b945e56a63f41223eef650653a1"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-serial-sse-fix2/esp32-s3-supermini-rgb-control.ino.merged.bin",
+                      "sizeBytes":  4194304,
+                      "lastWriteUtc":  "2026-04-04T15:31:25.3236133Z",
+                      "sha256":  "bd17da56760f7707be85feb92216c6bf770e8ee37c05eef8c035c29eab630ab2"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-serial-sse-fix2/esp32-s3-supermini-rgb-control.ino.bootloader.bin",
+                      "sizeBytes":  19984,
+                      "lastWriteUtc":  "2026-04-04T15:24:43.2164837Z",
+                      "sha256":  "670896258d62395f1986940214cc4a3223d1b05ab90f43666ec6a712639de516"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-serial-sse-fix2/esp32-s3-supermini-rgb-control.ino.bin",
+                      "sizeBytes":  1083968,
+                      "lastWriteUtc":  "2026-04-04T15:31:24.0023160Z",
+                      "sha256":  "074055c2f3c3fbfca2c31a63a43270af7f2eec150af374304610858f5f22d4fa"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-ws2812-fix/esp32-s3-supermini-rgb-control.ino.partitions.bin",
+                      "sizeBytes":  3072,
+                      "lastWriteUtc":  "2026-04-04T14:31:13.1784132Z",
+                      "sha256":  "148b959cbff1c38aa8e1d5c0ba9d612c54997b945e56a63f41223eef650653a1"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-ws2812-fix/esp32-s3-supermini-rgb-control.ino.merged.bin",
+                      "sizeBytes":  4194304,
+                      "lastWriteUtc":  "2026-04-04T14:31:20.3063089Z",
+                      "sha256":  "826c0f2dd8b87c51e0d773aec99e0663ccdbfb44d2a91e330bfb311c17828730"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-ws2812-fix/esp32-s3-supermini-rgb-control.ino.bootloader.bin",
+                      "sizeBytes":  19984,
+                      "lastWriteUtc":  "2026-04-04T04:49:07.6330495Z",
+                      "sha256":  "670896258d62395f1986940214cc4a3223d1b05ab90f43666ec6a712639de516"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-ws2812-fix/esp32-s3-supermini-rgb-control.ino.bin",
+                      "sizeBytes":  1083360,
+                      "lastWriteUtc":  "2026-04-04T14:31:07.7950564Z",
+                      "sha256":  "ea44f41c899737690ac24e1a2321e7494ea03123d85737d1462229dd92e0fdb1"
+                  },
+                  {
+                      "relativePath":  "esp32-s3-supermini-rgb-control/build/codex-review/esp32-s3-supermini-rgb-control.ino.bootloader.bin",
+                      "sizeBytes":  19984,
+                      "lastWriteUtc":  "2026-05-12T15:32:01.2492045Z",
+                      "sha256":  "670896258d62395f1986940214cc4a3223d1b05ab90f43666ec6a712639de516"
+                  },
+                  {
+                      "relativePath":  "esp32-s3-supermini-rgb-control/build/codex-review/esp32-s3-supermini-rgb-control.ino.bin",
+                      "sizeBytes":  1114544,
+                      "lastWriteUtc":  "2026-05-12T15:18:19.1663520Z",
+                      "sha256":  "177ae65ba5dc185956b67cd7e382eab6db355287b3e770d10bbba46fbe1c8059"
+                  },
+                  {
+                      "relativePath":  "esp32-s3-supermini-rgb-control/build/codex-review/esp32-s3-supermini-rgb-control.ino.merged.bin",
+                      "sizeBytes":  4194304,
+                      "lastWriteUtc":  "2026-05-12T15:18:20.6755326Z",
+                      "sha256":  "0e1cba115b14fc7cc3e7710efb169c3255caa0b45bea198c8b52f83a86173a34"
+                  },
+                  {
+                      "relativePath":  "esp32-s3-supermini-rgb-control/build/codex-review/esp32-s3-supermini-rgb-control.ino.partitions.bin",
+                      "sizeBytes":  3072,
+                      "lastWriteUtc":  "2026-05-12T15:18:19.7997274Z",
+                      "sha256":  "148b959cbff1c38aa8e1d5c0ba9d612c54997b945e56a63f41223eef650653a1"
+                  },
+                  {
+                      "relativePath":  "esp32-s3-supermini-rgb-control/build/codex-review-usb-fallback/esp32-s3-supermini-rgb-control.ino.partitions.bin",
+                      "sizeBytes":  3072,
+                      "lastWriteUtc":  "2026-05-13T13:52:46.8598985Z",
+                      "sha256":  "148b959cbff1c38aa8e1d5c0ba9d612c54997b945e56a63f41223eef650653a1"
+                  },
+                  {
+                      "relativePath":  "esp32-s3-supermini-rgb-control/build/codex-review-usb-fallback/esp32-s3-supermini-rgb-control.ino.merged.bin",
+                      "sizeBytes":  4194304,
+                      "lastWriteUtc":  "2026-05-13T13:52:48.1428212Z",
+                      "sha256":  "79dd84ccbd649016d4cdb6a62ec3db5acb8eab817dbb3ea13d753628095cd79c"
+                  },
+                  {
+                      "relativePath":  "esp32-s3-supermini-rgb-control/build/codex-review-usb-fallback/esp32-s3-supermini-rgb-control.ino.bootloader.bin",
+                      "sizeBytes":  19984,
+                      "lastWriteUtc":  "2026-05-13T13:50:09.7395286Z",
+                      "sha256":  "670896258d62395f1986940214cc4a3223d1b05ab90f43666ec6a712639de516"
+                  },
+                  {
+                      "relativePath":  "esp32-s3-supermini-rgb-control/build/codex-review-usb-fallback/esp32-s3-supermini-rgb-control.ino.bin",
+                      "sizeBytes":  1109840,
+                      "lastWriteUtc":  "2026-05-13T13:52:46.0405729Z",
+                      "sha256":  "80ecf22da1fbfa762e90c1fc0dfb45a9acc9947ebbb717fc2ddef4bd85c0adc8"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-serial-sse-fix/esp32-s3-supermini-rgb-control.ino.partitions.bin",
+                      "sizeBytes":  3072,
+                      "lastWriteUtc":  "2026-04-04T15:24:04.4748666Z",
+                      "sha256":  "148b959cbff1c38aa8e1d5c0ba9d612c54997b945e56a63f41223eef650653a1"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-serial-sse-fix/esp32-s3-supermini-rgb-control.ino.merged.bin",
+                      "sizeBytes":  4194304,
+                      "lastWriteUtc":  "2026-04-04T15:24:05.5219802Z",
+                      "sha256":  "24a254c8b6d0551fe2b96b45e6f267217256fd39d342693cb33e935eccf4f472"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-serial-sse-fix/esp32-s3-supermini-rgb-control.ino.bootloader.bin",
+                      "sizeBytes":  19984,
+                      "lastWriteUtc":  "2026-04-04T15:16:04.4670051Z",
+                      "sha256":  "670896258d62395f1986940214cc4a3223d1b05ab90f43666ec6a712639de516"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-serial-sse-fix/esp32-s3-supermini-rgb-control.ino.bin",
+                      "sizeBytes":  1084000,
+                      "lastWriteUtc":  "2026-04-04T15:24:03.5503150Z",
+                      "sha256":  "b430b5df532f2dd82b2d8092341f3483112d837f5f6b2c46aeb086e10a003dda"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-sse-wdt-guard/esp32-s3-supermini-rgb-control.ino.bootloader.bin",
+                      "sizeBytes":  19984,
+                      "lastWriteUtc":  "2026-04-04T16:57:50.4483733Z",
+                      "sha256":  "670896258d62395f1986940214cc4a3223d1b05ab90f43666ec6a712639de516"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-sse-wdt-guard/esp32-s3-supermini-rgb-control.ino.bin",
+                      "sizeBytes":  1084240,
+                      "lastWriteUtc":  "2026-04-04T17:04:11.1475530Z",
+                      "sha256":  "b71a5a5c71f884ad2d986eae958b21995bf1de3650253d66df069db17fc87f4e"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-sse-wdt-guard/esp32-s3-supermini-rgb-control.ino.merged.bin",
+                      "sizeBytes":  4194304,
+                      "lastWriteUtc":  "2026-04-04T17:04:13.3861220Z",
+                      "sha256":  "08486daab35a5f7b484e08eac5f6b62eaaae84b20cdecfdc6c009d6466cd971b"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-sse-wdt-guard/esp32-s3-supermini-rgb-control.ino.partitions.bin",
+                      "sizeBytes":  3072,
+                      "lastWriteUtc":  "2026-04-04T17:04:11.9087090Z",
+                      "sha256":  "148b959cbff1c38aa8e1d5c0ba9d612c54997b945e56a63f41223eef650653a1"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-verify/esp32-s3-supermini-rgb-control.ino.merged.bin",
+                      "sizeBytes":  4194304,
+                      "lastWriteUtc":  "2026-04-04T03:14:00.7202752Z",
+                      "sha256":  "20214363cb54a401fe347a77f6bda4dd55edae52a0986e1c16bbb06a8dc00479"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-verify/esp32-s3-supermini-rgb-control.ino.bootloader.bin",
+                      "sizeBytes":  19984,
+                      "lastWriteUtc":  "2026-04-04T03:07:48.4784248Z",
+                      "sha256":  "670896258d62395f1986940214cc4a3223d1b05ab90f43666ec6a712639de516"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-verify/esp32-s3-supermini-rgb-control.ino.bin",
+                      "sizeBytes":  1082320,
+                      "lastWriteUtc":  "2026-04-04T03:13:59.4229327Z",
+                      "sha256":  "3ec40e5cb2ae36d8687f60bf0ec1ea3c407b577259e5d0f8428fe2b7be1d7845"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-verify/esp32-s3-supermini-rgb-control.ino.partitions.bin",
+                      "sizeBytes":  3072,
+                      "lastWriteUtc":  "2026-04-04T03:13:59.9820969Z",
+                      "sha256":  "148b959cbff1c38aa8e1d5c0ba9d612c54997b945e56a63f41223eef650653a1"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-wifi-cooldown/esp32-s3-supermini-rgb-control.ino.bin",
+                      "sizeBytes":  1087216,
+                      "lastWriteUtc":  "2026-04-06T11:15:39.7100516Z",
+                      "sha256":  "80dd0290842c465d0cd05ae04a5e37eedd21a4d366e552c4d6c425d004c1797e"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-wifi-cooldown/esp32-s3-supermini-rgb-control.ino.partitions.bin",
+                      "sizeBytes":  3072,
+                      "lastWriteUtc":  "2026-04-06T11:15:40.5393425Z",
+                      "sha256":  "148b959cbff1c38aa8e1d5c0ba9d612c54997b945e56a63f41223eef650653a1"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-wifi-cooldown/esp32-s3-supermini-rgb-control.ino.merged.bin",
+                      "sizeBytes":  4194304,
+                      "lastWriteUtc":  "2026-04-06T11:15:41.6609629Z",
+                      "sha256":  "c9857cb4f6b70a0ad5aa0eba4ef505dc584e315279e9f3d92c29b99ae85aed2a"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-wifi-cooldown/esp32-s3-supermini-rgb-control.ino.bootloader.bin",
+                      "sizeBytes":  19984,
+                      "lastWriteUtc":  "2026-04-06T11:02:35.2397569Z",
+                      "sha256":  "670896258d62395f1986940214cc4a3223d1b05ab90f43666ec6a712639de516"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-wifi-state-fix/esp32-s3-supermini-rgb-control.ino.bin",
+                      "sizeBytes":  1086576,
+                      "lastWriteUtc":  "2026-04-06T05:45:12.4351391Z",
+                      "sha256":  "7c37ebb67d8fe1f136588b0dd27f67eb17b1c4593fbc9401df2e47473379ba9e"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-wifi-state-fix/esp32-s3-supermini-rgb-control.ino.merged.bin",
+                      "sizeBytes":  4194304,
+                      "lastWriteUtc":  "2026-04-06T05:45:14.5802271Z",
+                      "sha256":  "b9249e504f74d32d070607dafae6551fa978c7f3cb4f1f8546d391531f20bee9"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-wifi-state-fix/esp32-s3-supermini-rgb-control.ino.bootloader.bin",
+                      "sizeBytes":  19984,
+                      "lastWriteUtc":  "2026-04-06T05:39:13.5693937Z",
+                      "sha256":  "670896258d62395f1986940214cc4a3223d1b05ab90f43666ec6a712639de516"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-wifi-state-fix/esp32-s3-supermini-rgb-control.ino.partitions.bin",
+                      "sizeBytes":  3072,
+                      "lastWriteUtc":  "2026-04-06T05:45:13.6933117Z",
+                      "sha256":  "148b959cbff1c38aa8e1d5c0ba9d612c54997b945e56a63f41223eef650653a1"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-fresh/esp32-s3-supermini-rgb-control.ino.bootloader.bin",
+                      "sizeBytes":  19984,
+                      "lastWriteUtc":  "2026-04-03T18:05:50.2180954Z",
+                      "sha256":  "670896258d62395f1986940214cc4a3223d1b05ab90f43666ec6a712639de516"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-fresh/esp32-s3-supermini-rgb-control.ino.bin",
+                      "sizeBytes":  1082320,
+                      "lastWriteUtc":  "2026-04-03T18:11:31.1616147Z",
+                      "sha256":  "fa5c41ef049d69e8b9afd991235b237b0e105187f631ba5a45709d9c1c3f2017"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-fresh/esp32-s3-supermini-rgb-control.ino.partitions.bin",
+                      "sizeBytes":  3072,
+                      "lastWriteUtc":  "2026-04-03T18:11:31.7415569Z",
+                      "sha256":  "148b959cbff1c38aa8e1d5c0ba9d612c54997b945e56a63f41223eef650653a1"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-fresh/esp32-s3-supermini-rgb-control.ino.merged.bin",
+                      "sizeBytes":  4194304,
+                      "lastWriteUtc":  "2026-04-03T18:11:32.4912996Z",
+                      "sha256":  "964dee714085f466441fa771f5628b065cec889cb5db35dfd150a4103cc2bd35"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-resource-verify-20260404/esp32-s3-supermini-rgb-control.ino.partitions.bin",
+                      "sizeBytes":  3072,
+                      "lastWriteUtc":  "2026-04-04T14:57:48.8776468Z",
+                      "sha256":  "148b959cbff1c38aa8e1d5c0ba9d612c54997b945e56a63f41223eef650653a1"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-resource-verify-20260404/esp32-s3-supermini-rgb-control.ino.merged.bin",
+                      "sizeBytes":  4194304,
+                      "lastWriteUtc":  "2026-04-04T14:57:50.2072042Z",
+                      "sha256":  "6364057eae71bbc0e8f841f5caec5286ddbd68bdb1b7a350fc2839e344b3f7e2"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-resource-verify-20260404/esp32-s3-supermini-rgb-control.ino.bootloader.bin",
+                      "sizeBytes":  19984,
+                      "lastWriteUtc":  "2026-04-04T14:48:21.1107485Z",
+                      "sha256":  "670896258d62395f1986940214cc4a3223d1b05ab90f43666ec6a712639de516"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-resource-verify-20260404/esp32-s3-supermini-rgb-control.ino.bin",
+                      "sizeBytes":  1083360,
+                      "lastWriteUtc":  "2026-04-04T14:57:47.7770885Z",
+                      "sha256":  "2fdeaeec2ff9b3ebe4f5beb0001bcd67dc40ba5b54592d07196c2cb7d267dfa5"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-resource-fix2/esp32-s3-supermini-rgb-control.ino.bootloader.bin",
+                      "sizeBytes":  19984,
+                      "lastWriteUtc":  "2026-04-04T14:32:37.9151629Z",
+                      "sha256":  "670896258d62395f1986940214cc4a3223d1b05ab90f43666ec6a712639de516"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-stability-review/esp32-s3-supermini-rgb-control.ino.partitions.bin",
+                      "sizeBytes":  3072,
+                      "lastWriteUtc":  "2026-04-06T05:17:35.5050593Z",
+                      "sha256":  "148b959cbff1c38aa8e1d5c0ba9d612c54997b945e56a63f41223eef650653a1"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-stability-review/esp32-s3-supermini-rgb-control.ino.merged.bin",
+                      "sizeBytes":  4194304,
+                      "lastWriteUtc":  "2026-04-06T05:17:36.2625080Z",
+                      "sha256":  "51c8af76d1b26ba3517c624e6cb75930c9a8c940c95b681b80a90811439cfce1"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-stability-review/esp32-s3-supermini-rgb-control.ino.bootloader.bin",
+                      "sizeBytes":  19984,
+                      "lastWriteUtc":  "2026-04-06T05:11:51.2448562Z",
+                      "sha256":  "670896258d62395f1986940214cc4a3223d1b05ab90f43666ec6a712639de516"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-stability-review/esp32-s3-supermini-rgb-control.ino.bin",
+                      "sizeBytes":  1086224,
+                      "lastWriteUtc":  "2026-04-06T05:17:34.9503962Z",
+                      "sha256":  "fce18addb008cfc5c02d54b62ee3edb1611be8aabd1bd50fc7b32bef83618e37"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-wdt-fix/esp32-s3-supermini-rgb-control.ino.partitions.bin",
+                      "sizeBytes":  3072,
+                      "lastWriteUtc":  "2026-04-04T16:13:02.8543266Z",
+                      "sha256":  "148b959cbff1c38aa8e1d5c0ba9d612c54997b945e56a63f41223eef650653a1"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-wdt-fix/esp32-s3-supermini-rgb-control.ino.merged.bin",
+                      "sizeBytes":  4194304,
+                      "lastWriteUtc":  "2026-04-04T16:13:03.6336678Z",
+                      "sha256":  "5fed614b724f1569125a7f4a7bc7221e6958cd549259db0089dd1e9b2ce078aa"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-wdt-fix/esp32-s3-supermini-rgb-control.ino.bootloader.bin",
+                      "sizeBytes":  19984,
+                      "lastWriteUtc":  "2026-04-04T16:07:12.4988644Z",
+                      "sha256":  "670896258d62395f1986940214cc4a3223d1b05ab90f43666ec6a712639de516"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-wdt-fix/esp32-s3-supermini-rgb-control.ino.bin",
+                      "sizeBytes":  1084208,
+                      "lastWriteUtc":  "2026-04-04T16:13:02.2444403Z",
+                      "sha256":  "92b06a78889b9bb87575aff32d728aae0222f11e20a4307b70d9390a6cb60daa"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-sse-log-quiet/esp32-s3-supermini-rgb-control.ino.partitions.bin",
+                      "sizeBytes":  3072,
+                      "lastWriteUtc":  "2026-04-04T16:40:36.2321643Z",
+                      "sha256":  "148b959cbff1c38aa8e1d5c0ba9d612c54997b945e56a63f41223eef650653a1"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-sse-log-quiet/esp32-s3-supermini-rgb-control.ino.merged.bin",
+                      "sizeBytes":  4194304,
+                      "lastWriteUtc":  "2026-04-04T16:40:37.3887652Z",
+                      "sha256":  "ffecd844d722d0979982f928c717a8960fcf664e223d04de1b6b85055b162f12"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-sse-log-quiet/esp32-s3-supermini-rgb-control.ino.bootloader.bin",
+                      "sizeBytes":  19984,
+                      "lastWriteUtc":  "2026-04-04T16:31:47.7170169Z",
+                      "sha256":  "670896258d62395f1986940214cc4a3223d1b05ab90f43666ec6a712639de516"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-sse-log-quiet/esp32-s3-supermini-rgb-control.ino.bin",
+                      "sizeBytes":  1084144,
+                      "lastWriteUtc":  "2026-04-04T16:40:35.4989062Z",
+                      "sha256":  "bd7a4e36e91e828a5f11ba006267b61495820e50de05fac7c05b03211b3a1083"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-wifi-init-reduce/esp32-s3-supermini-rgb-control.ino.partitions.bin",
+                      "sizeBytes":  3072,
+                      "lastWriteUtc":  "2026-04-06T06:52:23.5405961Z",
+                      "sha256":  "148b959cbff1c38aa8e1d5c0ba9d612c54997b945e56a63f41223eef650653a1"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-wifi-init-reduce/esp32-s3-supermini-rgb-control.ino.merged.bin",
+                      "sizeBytes":  4194304,
+                      "lastWriteUtc":  "2026-04-06T06:52:24.6486668Z",
+                      "sha256":  "ec4784d16dd3b656b4899c6792799d0ebf7d4c06658c4126a741f5a0f17e7bc0"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-wifi-init-reduce/esp32-s3-supermini-rgb-control.ino.bootloader.bin",
+                      "sizeBytes":  19984,
+                      "lastWriteUtc":  "2026-04-06T06:44:00.4892166Z",
+                      "sha256":  "670896258d62395f1986940214cc4a3223d1b05ab90f43666ec6a712639de516"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-wifi-init-reduce/esp32-s3-supermini-rgb-control.ino.bin",
+                      "sizeBytes":  1087152,
+                      "lastWriteUtc":  "2026-04-06T06:52:22.8142757Z",
+                      "sha256":  "079a0ca05844df536791b608a5837e51d1e1ce6ff7bd05657b87a78f6e96e834"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-verify2/esp32-s3-supermini-rgb-control.ino.bootloader.bin",
+                      "sizeBytes":  19984,
+                      "lastWriteUtc":  "2026-04-04T03:25:47.0950253Z",
+                      "sha256":  "670896258d62395f1986940214cc4a3223d1b05ab90f43666ec6a712639de516"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-verify2/esp32-s3-supermini-rgb-control.ino.bin",
+                      "sizeBytes":  1082304,
+                      "lastWriteUtc":  "2026-04-04T03:31:21.9968807Z",
+                      "sha256":  "49ab362702c921ae013b092a0ad2912b87685460f7f8c1f495dc24ab04884c8a"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-resource-fix/esp32-s3-supermini-rgb-control.ino.partitions.bin",
+                      "sizeBytes":  3072,
+                      "lastWriteUtc":  "2026-04-04T14:40:56.0456289Z",
+                      "sha256":  "148b959cbff1c38aa8e1d5c0ba9d612c54997b945e56a63f41223eef650653a1"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-resource-fix/esp32-s3-supermini-rgb-control.ino.merged.bin",
+                      "sizeBytes":  4194304,
+                      "lastWriteUtc":  "2026-04-04T14:40:57.2051904Z",
+                      "sha256":  "59bdb545ebd66b530cd386f0d8c49f49a306bffc33aabc518730048203d2e5cd"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-resource-fix/esp32-s3-supermini-rgb-control.ino.bootloader.bin",
+                      "sizeBytes":  19984,
+                      "lastWriteUtc":  "2026-04-04T04:23:03.2941263Z",
+                      "sha256":  "670896258d62395f1986940214cc4a3223d1b05ab90f43666ec6a712639de516"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-resource-fix/esp32-s3-supermini-rgb-control.ino.bin",
+                      "sizeBytes":  1083360,
+                      "lastWriteUtc":  "2026-04-04T14:40:55.1595982Z",
+                      "sha256":  "3d5ab56315d86d2ace0298c1ac73caabb6da3ea68c8b628ab82765a9fffd51b0"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-defaultpins-update/esp32-s3-supermini-rgb-control.ino.bin",
+                      "sizeBytes":  1084144,
+                      "lastWriteUtc":  "2026-04-04T15:51:04.1157868Z",
+                      "sha256":  "d94e43c5b19193edf5035b9edcd30d27365e3d3dd09bb0cb694e1c9f9dd1aa8b"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-verify2/esp32-s3-supermini-rgb-control.ino.partitions.bin",
+                      "sizeBytes":  3072,
+                      "lastWriteUtc":  "2026-04-04T03:31:22.5141829Z",
+                      "sha256":  "148b959cbff1c38aa8e1d5c0ba9d612c54997b945e56a63f41223eef650653a1"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-verify2/esp32-s3-supermini-rgb-control.ino.merged.bin",
+                      "sizeBytes":  4194304,
+                      "lastWriteUtc":  "2026-04-04T03:31:23.2744068Z",
+                      "sha256":  "41589b83e083a510e527fb5aa4046b32ab189e48d3b4ab371ee1261d46143c47"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-defaultpins-update/esp32-s3-supermini-rgb-control.ino.partitions.bin",
+                      "sizeBytes":  3072,
+                      "lastWriteUtc":  "2026-04-04T15:51:04.6677126Z",
+                      "sha256":  "148b959cbff1c38aa8e1d5c0ba9d612c54997b945e56a63f41223eef650653a1"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-defaultpins-update/esp32-s3-supermini-rgb-control.ino.merged.bin",
+                      "sizeBytes":  4194304,
+                      "lastWriteUtc":  "2026-04-04T15:51:05.4503052Z",
+                      "sha256":  "0a542ed7ca1cb0e05f22835734b1bbec3189513157b19f7afb57ce299a056c32"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-defaultpins-update/esp32-s3-supermini-rgb-control.ino.bootloader.bin",
+                      "sizeBytes":  19984,
+                      "lastWriteUtc":  "2026-04-04T15:45:28.0802549Z",
+                      "sha256":  "670896258d62395f1986940214cc4a3223d1b05ab90f43666ec6a712639de516"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-history2/esp32-s3-supermini-rgb-control.ino.bootloader.bin",
+                      "sizeBytes":  19984,
+                      "lastWriteUtc":  "2026-04-06T05:59:06.8640221Z",
+                      "sha256":  "670896258d62395f1986940214cc4a3223d1b05ab90f43666ec6a712639de516"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-history2/esp32-s3-supermini-rgb-control.ino.bin",
+                      "sizeBytes":  1087136,
+                      "lastWriteUtc":  "2026-04-06T06:06:50.0730939Z",
+                      "sha256":  "dbe0e2a6a9770cd7b8322564baa7e9ee4194ffae8b23fea897b779b5679bb090"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-history2/esp32-s3-supermini-rgb-control.ino.merged.bin",
+                      "sizeBytes":  4194304,
+                      "lastWriteUtc":  "2026-04-06T06:06:51.7488334Z",
+                      "sha256":  "0cd01042a6eec057847bee1bb987f76b1096dd428684c6eb3a4f8837ac481ce9"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-history2/esp32-s3-supermini-rgb-control.ino.partitions.bin",
+                      "sizeBytes":  3072,
+                      "lastWriteUtc":  "2026-04-06T06:06:50.7251553Z",
+                      "sha256":  "148b959cbff1c38aa8e1d5c0ba9d612c54997b945e56a63f41223eef650653a1"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-bootcheck/esp32-s3-supermini-rgb-control.ino.bootloader.bin",
+                      "sizeBytes":  19984,
+                      "lastWriteUtc":  "2026-04-09T09:01:32.9311811Z",
+                      "sha256":  "670896258d62395f1986940214cc4a3223d1b05ab90f43666ec6a712639de516"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-verify3/esp32-s3-supermini-rgb-control.ino.partitions.bin",
+                      "sizeBytes":  3072,
+                      "lastWriteUtc":  "2026-04-04T03:37:33.9782363Z",
+                      "sha256":  "148b959cbff1c38aa8e1d5c0ba9d612c54997b945e56a63f41223eef650653a1"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-verify3/esp32-s3-supermini-rgb-control.ino.merged.bin",
+                      "sizeBytes":  4194304,
+                      "lastWriteUtc":  "2026-04-04T03:37:34.7024533Z",
+                      "sha256":  "2021548659ed7b63cafe6116f84389e1d95efb7900703f95c8f222dc41cbd7ed"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-verify3/esp32-s3-supermini-rgb-control.ino.bootloader.bin",
+                      "sizeBytes":  19984,
+                      "lastWriteUtc":  "2026-04-04T03:32:00.1940404Z",
+                      "sha256":  "670896258d62395f1986940214cc4a3223d1b05ab90f43666ec6a712639de516"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-verify3/esp32-s3-supermini-rgb-control.ino.bin",
+                      "sizeBytes":  1082304,
+                      "lastWriteUtc":  "2026-04-04T03:37:33.4550003Z",
+                      "sha256":  "8e30925b97c32d004d5c6207766a50e37e5c5ded143c5d6728ec68ba268c29ca"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-ap-timeout-fix/esp32-s3-supermini-rgb-control.ino.partitions.bin",
+                      "sizeBytes":  3072,
+                      "lastWriteUtc":  "2026-04-06T05:31:20.5717258Z",
+                      "sha256":  "148b959cbff1c38aa8e1d5c0ba9d612c54997b945e56a63f41223eef650653a1"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-ap-timeout-fix/esp32-s3-supermini-rgb-control.ino.merged.bin",
+                      "sizeBytes":  4194304,
+                      "lastWriteUtc":  "2026-04-06T05:31:21.3622796Z",
+                      "sha256":  "96c0b72fc07f5e5215f8740287ee56a95c642ce406363e54680ba54348edea3e"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-ap-timeout-fix/esp32-s3-supermini-rgb-control.ino.bootloader.bin",
+                      "sizeBytes":  19984,
+                      "lastWriteUtc":  "2026-04-06T05:24:48.3303581Z",
+                      "sha256":  "670896258d62395f1986940214cc4a3223d1b05ab90f43666ec6a712639de516"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-ap-timeout-fix/esp32-s3-supermini-rgb-control.ino.bin",
+                      "sizeBytes":  1086416,
+                      "lastWriteUtc":  "2026-04-06T05:31:20.0142731Z",
+                      "sha256":  "9800e932e51506ebec33404a2464dfd934c7e8b4d80ceec6a32fbeb8e8489ef3"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-api-log-compact-v2/esp32-s3-supermini-rgb-control.ino.bin",
+                      "sizeBytes":  1084752,
+                      "lastWriteUtc":  "2026-04-05T12:02:37.6185205Z",
+                      "sha256":  "ad30d04fa63de17257dad3dbde764e0e646cd761b700996b026890aecb052825"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-api-log-compact-v2/esp32-s3-supermini-rgb-control.ino.partitions.bin",
+                      "sizeBytes":  3072,
+                      "lastWriteUtc":  "2026-04-05T12:02:38.2484827Z",
+                      "sha256":  "148b959cbff1c38aa8e1d5c0ba9d612c54997b945e56a63f41223eef650653a1"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-api-log-compact-v2/esp32-s3-supermini-rgb-control.ino.merged.bin",
+                      "sizeBytes":  4194304,
+                      "lastWriteUtc":  "2026-04-05T12:02:39.1108089Z",
+                      "sha256":  "5f39b787f926357bbaf2a05ec59f01ac5290abf942977b9a4f25f5fce9a2aeee"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-api-log-compact-v2/esp32-s3-supermini-rgb-control.ino.bootloader.bin",
+                      "sizeBytes":  19984,
+                      "lastWriteUtc":  "2026-04-05T11:25:40.6691312Z",
+                      "sha256":  "670896258d62395f1986940214cc4a3223d1b05ab90f43666ec6a712639de516"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3/esp32-s3-supermini-rgb-control.ino.bin",
+                      "sizeBytes":  1095968,
+                      "lastWriteUtc":  "2026-04-11T05:55:04.1013195Z",
+                      "sha256":  "1ec3971cc6b9c2c990b7985cd7b2e61a713b2eed30341f9e2ecb594e8d799689"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3/esp32-s3-supermini-rgb-control.ino.partitions.bin",
+                      "sizeBytes":  3072,
+                      "lastWriteUtc":  "2026-04-11T05:55:05.6483779Z",
+                      "sha256":  "148b959cbff1c38aa8e1d5c0ba9d612c54997b945e56a63f41223eef650653a1"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3/esp32-s3-supermini-rgb-control.ino.bootloader.bin",
+                      "sizeBytes":  19984,
+                      "lastWriteUtc":  "2026-04-11T05:39:57.4225468Z",
+                      "sha256":  "670896258d62395f1986940214cc4a3223d1b05ab90f43666ec6a712639de516"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3/esp32-s3-supermini-rgb-control.ino.merged.bin",
+                      "sizeBytes":  4194304,
+                      "lastWriteUtc":  "2026-04-11T05:55:08.8073173Z",
+                      "sha256":  "13b22f6a1e5a82dc7cb529f7fcdabb8e9fcd6124146135e05d5cf1ea71314535"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-ap-page-fix/esp32-s3-supermini-rgb-control.ino.bootloader.bin",
+                      "sizeBytes":  19984,
+                      "lastWriteUtc":  "2026-04-06T05:47:50.8667711Z",
+                      "sha256":  "670896258d62395f1986940214cc4a3223d1b05ab90f43666ec6a712639de516"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-ap-page-fix/esp32-s3-supermini-rgb-control.ino.bin",
+                      "sizeBytes":  1086560,
+                      "lastWriteUtc":  "2026-04-06T05:52:59.3994733Z",
+                      "sha256":  "29019f464fce97c88f542d584be4e2ea07a7c4ba1cf72fc5c676dc93b12343cf"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-api-log-compact/esp32-s3-supermini-rgb-control.ino.partitions.bin",
+                      "sizeBytes":  3072,
+                      "lastWriteUtc":  "2026-04-05T10:55:57.5096167Z",
+                      "sha256":  "148b959cbff1c38aa8e1d5c0ba9d612c54997b945e56a63f41223eef650653a1"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-api-log-compact/esp32-s3-supermini-rgb-control.ino.merged.bin",
+                      "sizeBytes":  4194304,
+                      "lastWriteUtc":  "2026-04-05T10:55:58.7708118Z",
+                      "sha256":  "8327236cbef09982924b6a1346915bb93d04d9b01bc47a34accd37a288e91d21"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-api-log-compact/esp32-s3-supermini-rgb-control.ino.bootloader.bin",
+                      "sizeBytes":  19984,
+                      "lastWriteUtc":  "2026-04-05T10:36:29.2290773Z",
+                      "sha256":  "670896258d62395f1986940214cc4a3223d1b05ab90f43666ec6a712639de516"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-api-log-compact/esp32-s3-supermini-rgb-control.ino.bin",
+                      "sizeBytes":  1084672,
+                      "lastWriteUtc":  "2026-04-05T10:55:56.5363495Z",
+                      "sha256":  "ba99a93a27ccabb8e2ec25febbf75f077593594e1bdacd911e9ad212aee08fb2"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-ap-page-fix/esp32-s3-supermini-rgb-control.ino.partitions.bin",
+                      "sizeBytes":  3072,
+                      "lastWriteUtc":  "2026-04-06T05:52:59.9371569Z",
+                      "sha256":  "148b959cbff1c38aa8e1d5c0ba9d612c54997b945e56a63f41223eef650653a1"
+                  },
+                  {
+                      "relativePath":  "app-controller/build-esp32s3-ap-page-fix/esp32-s3-supermini-rgb-control.ino.merged.bin",
+                      "sizeBytes":  4194304,
+                      "lastWriteUtc":  "2026-04-06T05:53:00.6644702Z",
+                      "sha256":  "0c9b2aa06866a1e7e988263077411a69d23466ed53e4f6a756545d0163a08990"
+                  }
+              ]
+}
