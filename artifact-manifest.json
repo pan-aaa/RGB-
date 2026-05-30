@@ -5,38 +5,14 @@
                        "branch":  "master",
                        "commit":  "e709439019d336bafe45056261c7f268ffb0a878"
                    },
-    "syncedAtUtc":  "2026-05-30T15:19:10.0740872Z",
-    "artifactCount":  21,
+    "syncedAtUtc":  "2026-05-30T15:20:44.3789957Z",
+    "artifactCount":  8,
     "files":  [
-                  {
-                      "relativePath":  "app-controller/app/build/outputs/apk/debug/output-metadata.json",
-                      "sizeBytes":  439,
-                      "lastWriteUtc":  "2026-05-30T13:08:01.7733848Z",
-                      "sha256":  "9ac4dc6c549e70ef4a76361c118bcc4cdd722173cb028f80248c1d73be8c34a6"
-                  },
                   {
                       "relativePath":  "app-controller/app/build/outputs/apk/debug/RGBController-debug-1.5.2-23-20260530_2107.apk",
                       "sizeBytes":  13128140,
                       "lastWriteUtc":  "2026-05-30T13:08:00.5915878Z",
                       "sha256":  "e6434f700fc762f6769f514cebd9c18521d125ecf1610c4088123cd97a7d86eb"
-                  },
-                  {
-                      "relativePath":  "app-controller/app/build/outputs/apk/release/baselineProfiles/0/RGBController-release-1.5.2-23-20260530_2107.dm",
-                      "sizeBytes":  3102,
-                      "lastWriteUtc":  "2026-05-30T13:08:05.7705537Z",
-                      "sha256":  "89d6b38f59207a4708eab4b8e562e3a93363f8306ff1ef9a635ab96718b8c83a"
-                  },
-                  {
-                      "relativePath":  "app-controller/app/build/outputs/apk/release/baselineProfiles/1/RGBController-release-1.5.2-23-20260530_2107.dm",
-                      "sizeBytes":  3039,
-                      "lastWriteUtc":  "2026-05-30T13:08:05.7832787Z",
-                      "sha256":  "05b5237727ceff4dbfa0b364de187e8e350b733f2c0244f5777b270624aa9713"
-                  },
-                  {
-                      "relativePath":  "app-controller/app/build/outputs/apk/release/output-metadata.json",
-                      "sizeBytes":  811,
-                      "lastWriteUtc":  "2026-05-30T13:08:06.1656754Z",
-                      "sha256":  "85637eb9a555bbe5f43c6cb380ffe4bbbd365d3a50474263969ac3f457dbf1b5"
                   },
                   {
                       "relativePath":  "app-controller/app/build/outputs/apk/release/RGBController-release-1.5.2-23-20260530_2107.apk",
@@ -51,12 +27,6 @@
                       "sha256":  "f94c5d786a7a8fab06ac5d10e33bf37711a6697636dc037559ea19cc410a17f0"
                   },
                   {
-                      "relativePath":  "esp32-s3-supermini-rgb-control/build/esp32.esp32.esp32s3/build.options.json",
-                      "sizeBytes":  749,
-                      "lastWriteUtc":  "2026-05-30T14:05:24.5938919Z",
-                      "sha256":  "9ffe30dfa69f098c68d529a2bfbb2c3e20862523a8a1b2a371a417ff322c4442"
-                  },
-                  {
                       "relativePath":  "esp32-s3-supermini-rgb-control/build/esp32.esp32.esp32s3/esp32-s3-supermini-rgb-control.ino.bin",
                       "sizeBytes":  1107296,
                       "lastWriteUtc":  "2026-05-30T14:18:21.2556687Z",
@@ -67,18 +37,6 @@
                       "sizeBytes":  19984,
                       "lastWriteUtc":  "2026-05-30T14:05:26.3302619Z",
                       "sha256":  "670896258d62395f1986940214cc4a3223d1b05ab90f43666ec6a712639de516"
-                  },
-                  {
-                      "relativePath":  "esp32-s3-supermini-rgb-control/build/esp32.esp32.esp32s3/esp32-s3-supermini-rgb-control.ino.elf",
-                      "sizeBytes":  15088064,
-                      "lastWriteUtc":  "2026-05-30T14:18:20.1890959Z",
-                      "sha256":  "b080067a1e6e01cd1c2e7e35d847ef45adf83c4f81894b461220705c5e806ee9"
-                  },
-                  {
-                      "relativePath":  "esp32-s3-supermini-rgb-control/build/esp32.esp32.esp32s3/esp32-s3-supermini-rgb-control.ino.map",
-                      "sizeBytes":  16687926,
-                      "lastWriteUtc":  "2026-05-30T14:18:20.2092221Z",
-                      "sha256":  "be023ab5ed950ac9396801f7d069a6ac0d4714c3af103df78e53d554bafacf1c"
                   },
                   {
                       "relativePath":  "esp32-s3-supermini-rgb-control/build/esp32.esp32.esp32s3/esp32-s3-supermini-rgb-control.ino.merged.bin",
@@ -93,46 +51,10 @@
                       "sha256":  "148b959cbff1c38aa8e1d5c0ba9d612c54997b945e56a63f41223eef650653a1"
                   },
                   {
-                      "relativePath":  "esp32-s3-supermini-rgb-control/build/esp32.esp32.esp32s3/ESP32构建文件清单.xlsx",
-                      "sizeBytes":  15542,
-                      "lastWriteUtc":  "2026-05-11T15:08:44.7732801Z",
-                      "sha256":  "bed26e1491018930d3cf3623e342790f2aedef4ab8214f97ed820cd6d8313313"
-                  },
-                  {
-                      "relativePath":  "esp32-s3-supermini-rgb-control/build/esp32.esp32.esp32s3/flash_args",
-                      "sizeBytes":  244,
-                      "lastWriteUtc":  "2026-05-30T14:18:23.6591799Z",
-                      "sha256":  "a21702719700f25c64e17cd8dfc551cd39fae024c0c449a3aee267b5ad7568f5"
-                  },
-                  {
-                      "relativePath":  "esp32-s3-supermini-rgb-control/build/esp32.esp32.esp32s3/partitions.csv",
-                      "sizeBytes":  305,
-                      "lastWriteUtc":  "2026-03-11T23:19:50.1364808Z",
-                      "sha256":  "2683fd26b661bc909dcb8a9f05723d36c4000f9396995941a278fda409b753f7"
-                  },
-                  {
-                      "relativePath":  "esp32-s3-supermini-rgb-control/build/esp32.esp32.esp32s3/sdkconfig",
-                      "sizeBytes":  134343,
-                      "lastWriteUtc":  "2026-03-11T23:19:29.2507420Z",
-                      "sha256":  "53bfb521ac0b9470552452c3a6f017c3d8c774fe3ecedd6c930d0c049d19e423"
-                  },
-                  {
                       "relativePath":  "esp8266-esp01s-rgb-control/build/esp8266.esp8266.generic/esp8266-esp01s-rgb-control.ino.bin",
                       "sizeBytes":  339808,
                       "lastWriteUtc":  "2026-05-24T15:34:47.1490669Z",
                       "sha256":  "2da294f47fe0895f88422ec35af37c6b6f6b2a826447cae7f93ef82041217b11"
-                  },
-                  {
-                      "relativePath":  "esp8266-esp01s-rgb-control/build/esp8266.esp8266.generic/esp8266-esp01s-rgb-control.ino.elf",
-                      "sizeBytes":  4127244,
-                      "lastWriteUtc":  "2026-05-24T15:34:47.2790763Z",
-                      "sha256":  "cdd03bc046cf405e06850f325584d763798479ad37a96385c99df1a7b51a6d7d"
-                  },
-                  {
-                      "relativePath":  "esp8266-esp01s-rgb-control/build/esp8266.esp8266.generic/esp8266-esp01s-rgb-control.ino.map",
-                      "sizeBytes":  2661525,
-                      "lastWriteUtc":  "2026-05-24T15:34:47.5711876Z",
-                      "sha256":  "2a1112b30058dafef679f93c353ff52be7f0a195dfa759f32c9d18fcbf9af4e5"
                   }
               ]
 }

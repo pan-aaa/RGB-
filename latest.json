@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAtUtc":  "2026-05-30T15:19:10.5343186Z",
+    "generatedAtUtc":  "2026-05-30T15:20:44.7456176Z",
     "app":  {
                 "release":  {
                                 "versionName":  "1.5.2",
@@ -20,7 +20,7 @@
             },
     "firmware":  {
                      "esp32S3":  {
-                                     "version":  "3.4.3_260530_2318",
+                                     "version":  "3.4.3_260530_2320",
                                      "relativePath":  "payload/esp32-s3-supermini-rgb-control/build/esp32.esp32.esp32s3/esp32-s3-supermini-rgb-control.ino.bin",
                                      "sha256":  "02c82cc82ee16bd88d1b8893db937d0839ccccad7636f298e8d17936c497ab94",
                                      "sizeBytes":  1107296,
