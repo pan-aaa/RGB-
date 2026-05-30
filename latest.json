@@ -1,46 +1,48 @@
 ﻿{
-    "generatedAtUtc":  "2026-05-30T16:40:16.1019745Z",
+    "generatedAtUtc":  "2026-05-30T18:05:38.7663767Z",
     "sources":  {
-                    "recommendedManifestUrl":  "https://cat-fishing-fish.gitee.io/light-control/latest.json",
-                    "pagesManifestUrl":  "https://cat-fishing-fish.gitee.io/light-control/latest.json",
-                    "rawManifestUrl":  "https://gitee.com/cat-fishing-fish/light-control/raw/master/latest.json"
+                    "recommendedManifestUrl":  "https://pan-aaa.github.io/RGB-/latest.json",
+                    "pagesManifestUrl":  "https://pan-aaa.github.io/RGB-/latest.json",
+                    "rawManifestUrl":  "https://raw.githubusercontent.com/pan-aaa/RGB-/master/latest.json"
                 },
     "app":  {
                 "release":  {
                                 "versionName":  "1.5.3",
                                 "versionCode":  24,
-                                "relativePath":  "payload/app-controller/app/build/outputs/apk/release/RGBController-release-1.5.3-24-20260531_0030.apk",
-                                "sha256":  "0610f4fa7b76be17e295a5724f86ec82dce6aff5f0edf81a7556d247a8be1883",
-                                "sizeBytes":  11038548,
-                                "pageUrl":  "https://cat-fishing-fish.gitee.io/light-control/payload/app-controller/app/build/outputs/apk/release/RGBController-release-1.5.3-24-20260531_0030.apk",
-                                "rawUrl":  "https://gitee.com/cat-fishing-fish/light-control/raw/master/payload/app-controller/app/build/outputs/apk/release/RGBController-release-1.5.3-24-20260531_0030.apk"
+                                "buildTime":  "20260531_0202",
+                                "relativePath":  "payload/app-controller/app/build/outputs/apk/release/RGBController-release-1.5.3-24-20260531_0202.apk",
+                                "sha256":  "e42e8720de2b93d64b2c5476b166b652205e7eea4c6f6de96a60c153013d6360",
+                                "sizeBytes":  11040248,
+                                "pageUrl":  "https://pan-aaa.github.io/RGB-/payload/app-controller/app/build/outputs/apk/release/RGBController-release-1.5.3-24-20260531_0202.apk",
+                                "rawUrl":  "https://raw.githubusercontent.com/pan-aaa/RGB-/master/payload/app-controller/app/build/outputs/apk/release/RGBController-release-1.5.3-24-20260531_0202.apk"
                             },
                 "debug":  {
                               "versionName":  "1.5.3",
                               "versionCode":  24,
-                              "relativePath":  "payload/app-controller/app/build/outputs/apk/debug/RGBController-debug-1.5.3-24-20260531_0030.apk",
-                              "sha256":  "92210113a6cdcd9306d7dea464ddc428cb15cfe094fb568c44a4e2093a3bb944",
-                              "sizeBytes":  13170180,
-                              "pageUrl":  "https://cat-fishing-fish.gitee.io/light-control/payload/app-controller/app/build/outputs/apk/debug/RGBController-debug-1.5.3-24-20260531_0030.apk",
-                              "rawUrl":  "https://gitee.com/cat-fishing-fish/light-control/raw/master/payload/app-controller/app/build/outputs/apk/debug/RGBController-debug-1.5.3-24-20260531_0030.apk"
+                              "buildTime":  "20260531_0202",
+                              "relativePath":  "payload/app-controller/app/build/outputs/apk/debug/RGBController-debug-1.5.3-24-20260531_0202.apk",
+                              "sha256":  "819dd8e35afa5457cb6989b53297a5dab752bdba1e098878d3d4530b294f1519",
+                              "sizeBytes":  13172008,
+                              "pageUrl":  "https://pan-aaa.github.io/RGB-/payload/app-controller/app/build/outputs/apk/debug/RGBController-debug-1.5.3-24-20260531_0202.apk",
+                              "rawUrl":  "https://raw.githubusercontent.com/pan-aaa/RGB-/master/payload/app-controller/app/build/outputs/apk/debug/RGBController-debug-1.5.3-24-20260531_0202.apk"
                           }
             },
     "firmware":  {
                      "esp32S3":  {
-                                     "version":  "3.4.3_260531_0034",
+                                     "version":  "3.4.3_260531_0108",
                                      "relativePath":  "payload/esp32-s3-supermini-rgb-control/build/esp32.esp32.esp32s3/esp32-s3-supermini-rgb-control.ino.bin",
-                                     "sha256":  "e8b4dd1ed687e1683e4141cc46f50b145f834960c34377119971781d561ca298",
+                                     "sha256":  "4a76ddd847126a0dec26a54d65103c290e097ec85a945c45d72770a45e538f34",
                                      "sizeBytes":  1107296,
-                                     "pageUrl":  "https://cat-fishing-fish.gitee.io/light-control/payload/esp32-s3-supermini-rgb-control/build/esp32.esp32.esp32s3/esp32-s3-supermini-rgb-control.ino.bin",
-                                     "rawUrl":  "https://gitee.com/cat-fishing-fish/light-control/raw/master/payload/esp32-s3-supermini-rgb-control/build/esp32.esp32.esp32s3/esp32-s3-supermini-rgb-control.ino.bin"
+                                     "pageUrl":  "https://pan-aaa.github.io/RGB-/payload/esp32-s3-supermini-rgb-control/build/esp32.esp32.esp32s3/esp32-s3-supermini-rgb-control.ino.bin",
+                                     "rawUrl":  "https://raw.githubusercontent.com/pan-aaa/RGB-/master/payload/esp32-s3-supermini-rgb-control/build/esp32.esp32.esp32s3/esp32-s3-supermini-rgb-control.ino.bin"
                                  },
                      "esp8266Esp01s":  {
                                            "version":  "1.0.0-esp8266-port-",
                                            "relativePath":  "payload/esp8266-esp01s-rgb-control/build/esp8266.esp8266.generic/esp8266-esp01s-rgb-control.ino.bin",
                                            "sha256":  "2da294f47fe0895f88422ec35af37c6b6f6b2a826447cae7f93ef82041217b11",
                                            "sizeBytes":  339808,
-                                           "pageUrl":  "https://cat-fishing-fish.gitee.io/light-control/payload/esp8266-esp01s-rgb-control/build/esp8266.esp8266.generic/esp8266-esp01s-rgb-control.ino.bin",
-                                           "rawUrl":  "https://gitee.com/cat-fishing-fish/light-control/raw/master/payload/esp8266-esp01s-rgb-control/build/esp8266.esp8266.generic/esp8266-esp01s-rgb-control.ino.bin"
+                                           "pageUrl":  "https://pan-aaa.github.io/RGB-/payload/esp8266-esp01s-rgb-control/build/esp8266.esp8266.generic/esp8266-esp01s-rgb-control.ino.bin",
+                                           "rawUrl":  "https://raw.githubusercontent.com/pan-aaa/RGB-/master/payload/esp8266-esp01s-rgb-control/build/esp8266.esp8266.generic/esp8266-esp01s-rgb-control.ino.bin"
                                        }
                  }
 }

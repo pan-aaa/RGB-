@@ -5,26 +5,26 @@
                        "branch":  "master",
                        "commit":  "c4d5f7e6c1714b61599c4239d11d7f908db36a2d"
                    },
-    "syncedAtUtc":  "2026-05-30T16:40:15.3457568Z",
+    "syncedAtUtc":  "2026-05-30T18:05:38.3964448Z",
     "artifactCount":  4,
     "files":  [
                   {
-                      "relativePath":  "app-controller/app/build/outputs/apk/debug/RGBController-debug-1.5.3-24-20260531_0030.apk",
-                      "sizeBytes":  13170180,
-                      "lastWriteUtc":  "2026-05-30T16:30:31.7721429Z",
-                      "sha256":  "92210113a6cdcd9306d7dea464ddc428cb15cfe094fb568c44a4e2093a3bb944"
+                      "relativePath":  "app-controller/app/build/outputs/apk/debug/RGBController-debug-1.5.3-24-20260531_0202.apk",
+                      "sizeBytes":  13172008,
+                      "lastWriteUtc":  "2026-05-30T18:02:52.1380066Z",
+                      "sha256":  "819dd8e35afa5457cb6989b53297a5dab752bdba1e098878d3d4530b294f1519"
                   },
                   {
-                      "relativePath":  "app-controller/app/build/outputs/apk/release/RGBController-release-1.5.3-24-20260531_0030.apk",
-                      "sizeBytes":  11038548,
-                      "lastWriteUtc":  "2026-05-30T16:30:37.2913860Z",
-                      "sha256":  "0610f4fa7b76be17e295a5724f86ec82dce6aff5f0edf81a7556d247a8be1883"
+                      "relativePath":  "app-controller/app/build/outputs/apk/release/RGBController-release-1.5.3-24-20260531_0202.apk",
+                      "sizeBytes":  11040248,
+                      "lastWriteUtc":  "2026-05-30T18:03:09.2931376Z",
+                      "sha256":  "e42e8720de2b93d64b2c5476b166b652205e7eea4c6f6de96a60c153013d6360"
                   },
                   {
                       "relativePath":  "esp32-s3-supermini-rgb-control/build/esp32.esp32.esp32s3/esp32-s3-supermini-rgb-control.ino.bin",
                       "sizeBytes":  1107296,
-                      "lastWriteUtc":  "2026-05-30T16:29:12.4518449Z",
-                      "sha256":  "e8b4dd1ed687e1683e4141cc46f50b145f834960c34377119971781d561ca298"
+                      "lastWriteUtc":  "2026-05-30T17:10:52.2556827Z",
+                      "sha256":  "4a76ddd847126a0dec26a54d65103c290e097ec85a945c45d72770a45e538f34"
                   },
                   {
                       "relativePath":  "esp8266-esp01s-rgb-control/build/esp8266.esp8266.generic/esp8266-esp01s-rgb-control.ino.bin",
