@@ -3,22 +3,22 @@
                        "path":  "D:\\esp32\\web-wifis-RGB-ok",
                        "remote":  "git@gitee.com:cat-fishing-fish/web-wifis-rgb-ok.git",
                        "branch":  "master",
-                       "commit":  "44f8cf091fff748c7d3f5b1717b789c94a289a0d"
+                       "commit":  "902ec418184c450a00d02ea289d9590c7fbadbb3"
                    },
-    "syncedAtUtc":  "2026-05-30T15:35:06.5458010Z",
+    "syncedAtUtc":  "2026-05-30T16:12:19.2080497Z",
     "artifactCount":  4,
     "files":  [
                   {
-                      "relativePath":  "app-controller/app/build/outputs/apk/debug/RGBController-debug-1.5.2-23-20260530_2107.apk",
-                      "sizeBytes":  13128140,
-                      "lastWriteUtc":  "2026-05-30T13:08:00.5915878Z",
-                      "sha256":  "e6434f700fc762f6769f514cebd9c18521d125ecf1610c4088123cd97a7d86eb"
+                      "relativePath":  "app-controller/app/build/outputs/apk/debug/RGBController-debug-1.5.2-23-20260531_0010.apk",
+                      "sizeBytes":  13161948,
+                      "lastWriteUtc":  "2026-05-30T16:10:12.2971269Z",
+                      "sha256":  "ba634ab3dca001e7520bb5aa96e849f2ebc5352dec33fb09383e950df3cee91b"
                   },
                   {
-                      "relativePath":  "app-controller/app/build/outputs/apk/release/RGBController-release-1.5.2-23-20260530_2107.apk",
-                      "sizeBytes":  11003884,
-                      "lastWriteUtc":  "2026-05-30T13:08:06.0495680Z",
-                      "sha256":  "4547a8d69a3c3ab46c53aa0276c6bcd112dbb4c37a2f59fc1341b486d32b0d64"
+                      "relativePath":  "app-controller/app/build/outputs/apk/release/RGBController-release-1.5.2-23-20260531_0010.apk",
+                      "sizeBytes":  11031784,
+                      "lastWriteUtc":  "2026-05-30T16:10:19.2151014Z",
+                      "sha256":  "ea34dbcc0588333e77e7fce8f87d6a9a0f698f70522f2b0f3445217daf93864c"
                   },
                   {
                       "relativePath":  "esp32-s3-supermini-rgb-control/build/esp32.esp32.esp32s3/esp32-s3-supermini-rgb-control.ino.bin",
