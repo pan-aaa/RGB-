@@ -3,10 +3,10 @@
                        "path":  "D:\\esp32\\web-wifis-RGB-ok",
                        "remote":  "git@gitee.com:cat-fishing-fish/web-wifis-rgb-ok.git",
                        "branch":  "master",
-                       "commit":  "e709439019d336bafe45056261c7f268ffb0a878"
+                       "commit":  "44f8cf091fff748c7d3f5b1717b789c94a289a0d"
                    },
-    "syncedAtUtc":  "2026-05-30T15:20:44.3789957Z",
-    "artifactCount":  8,
+    "syncedAtUtc":  "2026-05-30T15:35:06.5458010Z",
+    "artifactCount":  4,
     "files":  [
                   {
                       "relativePath":  "app-controller/app/build/outputs/apk/debug/RGBController-debug-1.5.2-23-20260530_2107.apk",
@@ -21,34 +21,10 @@
                       "sha256":  "4547a8d69a3c3ab46c53aa0276c6bcd112dbb4c37a2f59fc1341b486d32b0d64"
                   },
                   {
-                      "relativePath":  "esp32-s3-supermini-rgb-control/build/esp32.esp32.esp32s3/boot_app0.bin",
-                      "sizeBytes":  8192,
-                      "lastWriteUtc":  "2026-03-11T23:19:50.1163623Z",
-                      "sha256":  "f94c5d786a7a8fab06ac5d10e33bf37711a6697636dc037559ea19cc410a17f0"
-                  },
-                  {
                       "relativePath":  "esp32-s3-supermini-rgb-control/build/esp32.esp32.esp32s3/esp32-s3-supermini-rgb-control.ino.bin",
                       "sizeBytes":  1107296,
-                      "lastWriteUtc":  "2026-05-30T14:18:21.2556687Z",
-                      "sha256":  "02c82cc82ee16bd88d1b8893db937d0839ccccad7636f298e8d17936c497ab94"
-                  },
-                  {
-                      "relativePath":  "esp32-s3-supermini-rgb-control/build/esp32.esp32.esp32s3/esp32-s3-supermini-rgb-control.ino.bootloader.bin",
-                      "sizeBytes":  19984,
-                      "lastWriteUtc":  "2026-05-30T14:05:26.3302619Z",
-                      "sha256":  "670896258d62395f1986940214cc4a3223d1b05ab90f43666ec6a712639de516"
-                  },
-                  {
-                      "relativePath":  "esp32-s3-supermini-rgb-control/build/esp32.esp32.esp32s3/esp32-s3-supermini-rgb-control.ino.merged.bin",
-                      "sizeBytes":  4194304,
-                      "lastWriteUtc":  "2026-05-30T14:18:23.2594204Z",
-                      "sha256":  "2dfdade26a128e4f2e9d78a4d00c9425701a1a06eafb2d54a1baa1bdfc44ebba"
-                  },
-                  {
-                      "relativePath":  "esp32-s3-supermini-rgb-control/build/esp32.esp32.esp32s3/esp32-s3-supermini-rgb-control.ino.partitions.bin",
-                      "sizeBytes":  3072,
-                      "lastWriteUtc":  "2026-05-30T14:18:22.0462030Z",
-                      "sha256":  "148b959cbff1c38aa8e1d5c0ba9d612c54997b945e56a63f41223eef650653a1"
+                      "lastWriteUtc":  "2026-05-30T15:27:05.5497967Z",
+                      "sha256":  "6b23daf35f5766b4e1415bfbc5860fa87d0ab2ee5282f06329e36ca006de7c7a"
                   },
                   {
                       "relativePath":  "esp8266-esp01s-rgb-control/build/esp8266.esp8266.generic/esp8266-esp01s-rgb-control.ino.bin",
