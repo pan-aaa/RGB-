@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAtUtc":  "2026-05-30T18:25:53.5993171Z",
+    "generatedAtUtc":  "2026-05-30T18:42:46.1013379Z",
     "sources":  {
                     "recommendedManifestUrl":  "https://pan-aaa.github.io/RGB-/latest.json",
                     "pagesManifestUrl":  "https://pan-aaa.github.io/RGB-/latest.json",
@@ -9,29 +9,29 @@
                 "release":  {
                                 "versionName":  "1.5.3",
                                 "versionCode":  24,
-                                "buildTime":  "20260531_0223",
-                                "relativePath":  "payload/app-controller/app/build/outputs/apk/release/RGBController-release-1.5.3-24-20260531_0223.apk",
-                                "sha256":  "e8757ebc7d00ecb0cb291ea3b4f8106be4e9bd550720bd4058a3da9f11003360",
-                                "sizeBytes":  11040248,
-                                "pageUrl":  "https://pan-aaa.github.io/RGB-/payload/app-controller/app/build/outputs/apk/release/RGBController-release-1.5.3-24-20260531_0223.apk",
-                                "rawUrl":  "https://raw.githubusercontent.com/pan-aaa/RGB-/master/payload/app-controller/app/build/outputs/apk/release/RGBController-release-1.5.3-24-20260531_0223.apk"
+                                "buildTime":  "20260531_0241",
+                                "relativePath":  "payload/app-controller/app/build/outputs/apk/release/RGBController-release-1.5.3-24-20260531_0241.apk",
+                                "sha256":  "72f6362bf6a09a15988d16ff4ce04c4f05cf89f9329c271e4d5e1d52c1809ca4",
+                                "sizeBytes":  11043896,
+                                "pageUrl":  "https://pan-aaa.github.io/RGB-/payload/app-controller/app/build/outputs/apk/release/RGBController-release-1.5.3-24-20260531_0241.apk",
+                                "rawUrl":  "https://raw.githubusercontent.com/pan-aaa/RGB-/master/payload/app-controller/app/build/outputs/apk/release/RGBController-release-1.5.3-24-20260531_0241.apk"
                             },
                 "debug":  {
                               "versionName":  "1.5.3",
                               "versionCode":  24,
-                              "buildTime":  "20260531_0223",
-                              "relativePath":  "payload/app-controller/app/build/outputs/apk/debug/RGBController-debug-1.5.3-24-20260531_0223.apk",
-                              "sha256":  "20e1779d4aadb1baf968378635bd6c9aefa9cfb6c38b8f22295f5589736a4937",
-                              "sizeBytes":  13172000,
-                              "pageUrl":  "https://pan-aaa.github.io/RGB-/payload/app-controller/app/build/outputs/apk/debug/RGBController-debug-1.5.3-24-20260531_0223.apk",
-                              "rawUrl":  "https://raw.githubusercontent.com/pan-aaa/RGB-/master/payload/app-controller/app/build/outputs/apk/debug/RGBController-debug-1.5.3-24-20260531_0223.apk"
+                              "buildTime":  "20260531_0241",
+                              "relativePath":  "payload/app-controller/app/build/outputs/apk/debug/RGBController-debug-1.5.3-24-20260531_0241.apk",
+                              "sha256":  "ca7b535ac6cda2378a3ae07633eb029c5bd83f13a18372cee08b40ed8c1ae2be",
+                              "sizeBytes":  13176564,
+                              "pageUrl":  "https://pan-aaa.github.io/RGB-/payload/app-controller/app/build/outputs/apk/debug/RGBController-debug-1.5.3-24-20260531_0241.apk",
+                              "rawUrl":  "https://raw.githubusercontent.com/pan-aaa/RGB-/master/payload/app-controller/app/build/outputs/apk/debug/RGBController-debug-1.5.3-24-20260531_0241.apk"
                           }
             },
     "firmware":  {
                      "esp32S3":  {
-                                     "version":  "3.4.3_260531_0108",
+                                     "version":  "3.4.3_260531_0230",
                                      "relativePath":  "payload/esp32-s3-supermini-rgb-control/build/esp32.esp32.esp32s3/esp32-s3-supermini-rgb-control.ino.bin",
-                                     "sha256":  "4a76ddd847126a0dec26a54d65103c290e097ec85a945c45d72770a45e538f34",
+                                     "sha256":  "4d4de1f898573443e556792c22e25a5acb4d93741fde34cd546cff13344111bd",
                                      "sizeBytes":  1107296,
                                      "pageUrl":  "https://pan-aaa.github.io/RGB-/payload/esp32-s3-supermini-rgb-control/build/esp32.esp32.esp32s3/esp32-s3-supermini-rgb-control.ino.bin",
                                      "rawUrl":  "https://raw.githubusercontent.com/pan-aaa/RGB-/master/payload/esp32-s3-supermini-rgb-control/build/esp32.esp32.esp32s3/esp32-s3-supermini-rgb-control.ino.bin"
