@@ -17,3 +17,8 @@ Recommended public update entry:
 
 - `latest.json`
 - `sources.recommendedManifestUrl` inside `latest.json`
+
+Local one-click sync:
+
+- Double-click `sync-artifacts-and-push.cmd`
+- Or run `powershell.exe -ExecutionPolicy Bypass -File .\sync-artifacts-and-push.ps1`
