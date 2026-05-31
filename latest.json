@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAtUtc":  "2026-05-31T06:31:14.0878005Z",
+    "generatedAtUtc":  "2026-05-31T07:02:22.0805546Z",
     "sources":  {
                     "recommendedManifestUrl":  "https://pan-aaa.github.io/RGB-/latest.json",
                     "pagesManifestUrl":  "https://pan-aaa.github.io/RGB-/latest.json",
@@ -9,12 +9,12 @@
                 "release":  {
                                 "versionName":  "1.5.5",
                                 "versionCode":  25,
-                                "buildTime":  "20260531_0312",
-                                "relativePath":  "payload/app-controller/app/build/outputs/apk/release/RGBController-release-1.5.5-25-20260531_0312.apk",
-                                "sha256":  "1a9be87f820a0ad1e1acf6d17c32bdc9e5369ffcc57c0ff5d36dbcd76b55ca3d",
-                                "sizeBytes":  11042364,
-                                "pageUrl":  "https://pan-aaa.github.io/RGB-/payload/app-controller/app/build/outputs/apk/release/RGBController-release-1.5.5-25-20260531_0312.apk",
-                                "rawUrl":  "https://raw.githubusercontent.com/pan-aaa/RGB-/master/payload/app-controller/app/build/outputs/apk/release/RGBController-release-1.5.5-25-20260531_0312.apk"
+                                "buildTime":  "20260531_1502",
+                                "relativePath":  "payload/app-controller/app/build/outputs/apk/release/RGBController-release-1.5.5-25-20260531_1502.apk",
+                                "sha256":  "727d86b6a2712aaba0bda2dfc32374acec891146bacab3c7290942d9b95000dc",
+                                "sizeBytes":  11041172,
+                                "pageUrl":  "https://pan-aaa.github.io/RGB-/payload/app-controller/app/build/outputs/apk/release/RGBController-release-1.5.5-25-20260531_1502.apk",
+                                "rawUrl":  "https://raw.githubusercontent.com/pan-aaa/RGB-/master/payload/app-controller/app/build/outputs/apk/release/RGBController-release-1.5.5-25-20260531_1502.apk"
                             },
                 "debug":  {
                               "versionName":  "1.5.5",
