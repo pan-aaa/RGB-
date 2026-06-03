@@ -5,7 +5,7 @@
                        "branch":  "master",
                        "commit":  "e48f5af674565a7d82ed8f0ab5205ecb5c1a13f5"
                    },
-    "syncedAtUtc":  "2026-06-03T15:40:41.4733150Z",
+    "syncedAtUtc":  "2026-06-03T23:47:49.3437441Z",
     "artifactCount":  4,
     "files":  [
                   {
@@ -23,8 +23,8 @@
                   {
                       "relativePath":  "esp32-s3-supermini-rgb-control/build/esp32.esp32.esp32s3/esp32-s3-supermini-rgb-control.ino.bin",
                       "sizeBytes":  1349600,
-                      "lastWriteUtc":  "2026-06-03T15:04:33.0185720Z",
-                      "sha256":  "acbf2666d7dcd828cb00382b4e35941ef2c1fa3101873f70cb4a4e5cb621b795"
+                      "lastWriteUtc":  "2026-06-03T23:33:50.7878730Z",
+                      "sha256":  "0e42ac9d02a229704f2dbabd68e90288e82264b979d7820d23e6ef9390857503"
                   },
                   {
                       "relativePath":  "esp8266-esp01s-rgb-control/build/esp8266.esp8266.generic/esp8266-esp01s-rgb-control.ino.bin",
