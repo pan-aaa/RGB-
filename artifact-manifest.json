@@ -5,20 +5,20 @@
                        "branch":  "master",
                        "commit":  "e48f5af674565a7d82ed8f0ab5205ecb5c1a13f5"
                    },
-    "syncedAtUtc":  "2026-06-03T15:14:26.8586842Z",
+    "syncedAtUtc":  "2026-06-03T15:40:41.4733150Z",
     "artifactCount":  4,
     "files":  [
                   {
-                      "relativePath":  "app-controller/app/build/outputs/apk/debug/RGBController-debug-1.5.5-25-20260603_2314.apk",
-                      "sizeBytes":  13158515,
-                      "lastWriteUtc":  "2026-06-03T15:14:20.7422221Z",
-                      "sha256":  "a962d6002d30a781974a6eceb01439eb9bf665cc5115a8831ebc58012f6f4555"
+                      "relativePath":  "app-controller/app/build/outputs/apk/debug/RGBController-debug-1.5.5-25-20260603_2340.apk",
+                      "sizeBytes":  13159067,
+                      "lastWriteUtc":  "2026-06-03T15:40:35.7916825Z",
+                      "sha256":  "1e72a27ec7cd2c0e5c56dd61d28b8f4d06f5c4a9f5686e716720cae9930281d1"
                   },
                   {
-                      "relativePath":  "app-controller/app/build/outputs/apk/release/RGBController-release-1.5.5-25-20260603_2314.apk",
-                      "sizeBytes":  11029868,
-                      "lastWriteUtc":  "2026-06-03T15:14:25.1091421Z",
-                      "sha256":  "639dc71631f949ef20e3d9b90d19b4dfc5a8aa207dbfa5d4fbc4b2dfab33ad75"
+                      "relativePath":  "app-controller/app/build/outputs/apk/release/RGBController-release-1.5.5-25-20260603_2340.apk",
+                      "sizeBytes":  11029860,
+                      "lastWriteUtc":  "2026-06-03T15:40:40.0171145Z",
+                      "sha256":  "8cb3ee6772225d5bd84b5815c16a7ad85163fda3a368feb3a6a6920321695dac"
                   },
                   {
                       "relativePath":  "esp32-s3-supermini-rgb-control/build/esp32.esp32.esp32s3/esp32-s3-supermini-rgb-control.ino.bin",
