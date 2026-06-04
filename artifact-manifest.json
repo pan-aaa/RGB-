@@ -3,9 +3,9 @@
                        "path":  "D:\\esp32\\web-wifis-RGB-ok",
                        "remote":  "git@gitee.com:cat-fishing-fish/web-wifis-rgb-ok.git",
                        "branch":  "master",
-                       "commit":  "e48f5af674565a7d82ed8f0ab5205ecb5c1a13f5"
+                       "commit":  "4f54e60a0b9330eba6129f8825d128607669ced1"
                    },
-    "syncedAtUtc":  "2026-06-03T23:47:49.3437441Z",
+    "syncedAtUtc":  "2026-06-04T12:27:00.3774143Z",
     "artifactCount":  4,
     "files":  [
                   {
@@ -23,8 +23,8 @@
                   {
                       "relativePath":  "esp32-s3-supermini-rgb-control/build/esp32.esp32.esp32s3/esp32-s3-supermini-rgb-control.ino.bin",
                       "sizeBytes":  1349600,
-                      "lastWriteUtc":  "2026-06-03T23:33:50.7878730Z",
-                      "sha256":  "0e42ac9d02a229704f2dbabd68e90288e82264b979d7820d23e6ef9390857503"
+                      "lastWriteUtc":  "2026-06-03T23:50:18.6064474Z",
+                      "sha256":  "bfeeba4941f514b8e893e2b1f263399090de942f48f3aefcff0cd98de717a844"
                   },
                   {
                       "relativePath":  "esp8266-esp01s-rgb-control/build/esp8266.esp8266.generic/esp8266-esp01s-rgb-control.ino.bin",

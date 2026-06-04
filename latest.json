@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAtUtc":  "2026-06-03T23:47:49.5854841Z",
+    "generatedAtUtc":  "2026-06-04T12:27:00.6166479Z",
     "sources":  {
                     "recommendedManifestUrl":  "https://pan-aaa.github.io/RGB-/latest.json",
                     "pagesManifestUrl":  "https://pan-aaa.github.io/RGB-/latest.json",
@@ -31,7 +31,7 @@
                      "esp32S3":  {
                                      "version":  "3.4.3_260604_0747",
                                      "relativePath":  "payload/esp32-s3-supermini-rgb-control/build/esp32.esp32.esp32s3/esp32-s3-supermini-rgb-control.ino.bin",
-                                     "sha256":  "0e42ac9d02a229704f2dbabd68e90288e82264b979d7820d23e6ef9390857503",
+                                     "sha256":  "bfeeba4941f514b8e893e2b1f263399090de942f48f3aefcff0cd98de717a844",
                                      "sizeBytes":  1349600,
                                      "pageUrl":  "https://pan-aaa.github.io/RGB-/payload/esp32-s3-supermini-rgb-control/build/esp32.esp32.esp32s3/esp32-s3-supermini-rgb-control.ino.bin",
                                      "rawUrl":  "https://raw.githubusercontent.com/pan-aaa/RGB-/master/payload/esp32-s3-supermini-rgb-control/build/esp32.esp32.esp32s3/esp32-s3-supermini-rgb-control.ino.bin"
