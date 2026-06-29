@@ -3,9 +3,9 @@
                        "path":  "D:\\esp32\\web-wifis-RGB-ok",
                        "remote":  "git@gitee.com:cat-fishing-fish/web-wifis-rgb-ok.git",
                        "branch":  "master",
-                       "commit":  "4f54e60a0b9330eba6129f8825d128607669ced1"
+                       "commit":  "40295be1da1d345ef1e448a3429fcd8d3f7f0ae5"
                    },
-    "syncedAtUtc":  "2026-06-17T11:49:54.4681108Z",
+    "syncedAtUtc":  "2026-06-29T14:43:30.6185287Z",
     "artifactCount":  4,
     "files":  [
                   {
