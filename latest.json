@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAtUtc":  "2026-06-30T10:45:09.1438563Z",
+    "generatedAtUtc":  "2026-06-30T11:02:03.0980359Z",
     "sources":  {
                     "recommendedManifestUrl":  "https://pan-aaa.github.io/RGB-/latest.json",
                     "pagesManifestUrl":  "https://pan-aaa.github.io/RGB-/latest.json",
@@ -9,22 +9,22 @@
                 "release":  {
                                 "versionName":  "1.6.0",
                                 "versionCode":  27,
-                                "buildTime":  "20260630_1844",
-                                "relativePath":  "payload/app-controller/app/build/outputs/apk/release/RGBController-release-1.6.0-27-20260630_1844.apk",
-                                "sha256":  "ca9a3f5f289fb0f90c5c295a9c0f31a4df530aaf2dd28d3548a0c97b1ca9f828",
-                                "sizeBytes":  11035648,
-                                "pageUrl":  "https://pan-aaa.github.io/RGB-/payload/app-controller/app/build/outputs/apk/release/RGBController-release-1.6.0-27-20260630_1844.apk",
-                                "rawUrl":  "https://raw.githubusercontent.com/pan-aaa/RGB-/master/payload/app-controller/app/build/outputs/apk/release/RGBController-release-1.6.0-27-20260630_1844.apk"
+                                "buildTime":  "20260630_1901",
+                                "relativePath":  "payload/app-controller/app/build/outputs/apk/release/RGBController-release-1.6.0-27-20260630_1901.apk",
+                                "sha256":  "fabdef1ed4254323bf410ad9d74478a76e40f4f3b0575b4978fcf515c317b04d",
+                                "sizeBytes":  11036588,
+                                "pageUrl":  "https://pan-aaa.github.io/RGB-/payload/app-controller/app/build/outputs/apk/release/RGBController-release-1.6.0-27-20260630_1901.apk",
+                                "rawUrl":  "https://raw.githubusercontent.com/pan-aaa/RGB-/master/payload/app-controller/app/build/outputs/apk/release/RGBController-release-1.6.0-27-20260630_1901.apk"
                             },
                 "debug":  {
                               "versionName":  "1.6.0",
                               "versionCode":  27,
-                              "buildTime":  "20260630_1844",
-                              "relativePath":  "payload/app-controller/app/build/outputs/apk/debug/RGBController-debug-1.6.0-27-20260630_1844.apk",
-                              "sha256":  "b914bccfacc4725769b47c0ea84672451b86fac8ac7a2b9e051eca486bde6be7",
-                              "sizeBytes":  13166491,
-                              "pageUrl":  "https://pan-aaa.github.io/RGB-/payload/app-controller/app/build/outputs/apk/debug/RGBController-debug-1.6.0-27-20260630_1844.apk",
-                              "rawUrl":  "https://raw.githubusercontent.com/pan-aaa/RGB-/master/payload/app-controller/app/build/outputs/apk/debug/RGBController-debug-1.6.0-27-20260630_1844.apk"
+                              "buildTime":  "20260630_1901",
+                              "relativePath":  "payload/app-controller/app/build/outputs/apk/debug/RGBController-debug-1.6.0-27-20260630_1901.apk",
+                              "sha256":  "abea48c995f2c4bed8ce6bb6a807f4712e979af45b21a81b67d6ca32122e747f",
+                              "sizeBytes":  13167303,
+                              "pageUrl":  "https://pan-aaa.github.io/RGB-/payload/app-controller/app/build/outputs/apk/debug/RGBController-debug-1.6.0-27-20260630_1901.apk",
+                              "rawUrl":  "https://raw.githubusercontent.com/pan-aaa/RGB-/master/payload/app-controller/app/build/outputs/apk/debug/RGBController-debug-1.6.0-27-20260630_1901.apk"
                           }
             },
     "firmware":  {
