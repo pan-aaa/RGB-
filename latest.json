@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAtUtc":  "2026-07-18T09:13:13.7930316Z",
+    "generatedAtUtc":  "2026-07-18T09:25:00.5501860Z",
     "sources":  {
                     "recommendedManifestUrl":  "https://pan-aaa.github.io/RGB-/latest.json",
                     "pagesManifestUrl":  "https://pan-aaa.github.io/RGB-/latest.json",
@@ -9,12 +9,12 @@
                 "release":  {
                                 "versionName":  "1.6.21",
                                 "versionCode":  30,
-                                "buildTime":  "20260718_1712",
-                                "relativePath":  "payload/app-controller/app/build/outputs/apk/release/RGBController-release-1.6.21-30-20260718_1712.apk",
-                                "sha256":  "3f10a6d11e0b068a3dde2284f1414fc2616bf78fa77b06de1b53859362033046",
+                                "buildTime":  "20260718_1724",
+                                "relativePath":  "payload/app-controller/app/build/outputs/apk/release/RGBController-release-1.6.21-30-20260718_1724.apk",
+                                "sha256":  "3bd67b495de83ba00adbcaa3e337ffbceb107e1a0619b87cbafb4e7ba4e5c467",
                                 "sizeBytes":  11038564,
-                                "pageUrl":  "https://pan-aaa.github.io/RGB-/payload/app-controller/app/build/outputs/apk/release/RGBController-release-1.6.21-30-20260718_1712.apk",
-                                "rawUrl":  "https://raw.githubusercontent.com/pan-aaa/RGB-/master/payload/app-controller/app/build/outputs/apk/release/RGBController-release-1.6.21-30-20260718_1712.apk"
+                                "pageUrl":  "https://pan-aaa.github.io/RGB-/payload/app-controller/app/build/outputs/apk/release/RGBController-release-1.6.21-30-20260718_1724.apk",
+                                "rawUrl":  "https://raw.githubusercontent.com/pan-aaa/RGB-/master/payload/app-controller/app/build/outputs/apk/release/RGBController-release-1.6.21-30-20260718_1724.apk"
                             },
                 "debug":  {
                               "versionName":  "1.6.21",
