@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAtUtc":  "2026-07-18T07:54:06.3945951Z",
+    "generatedAtUtc":  "2026-07-18T08:28:45.8816170Z",
     "sources":  {
                     "recommendedManifestUrl":  "https://pan-aaa.github.io/RGB-/latest.json",
                     "pagesManifestUrl":  "https://pan-aaa.github.io/RGB-/latest.json",
@@ -7,14 +7,14 @@
                 },
     "app":  {
                 "release":  {
-                                "versionName":  "1.6.2",
-                                "versionCode":  29,
-                                "buildTime":  "20260718_1553",
-                                "relativePath":  "payload/app-controller/app/build/outputs/apk/release/RGBController-release-1.6.2-29-20260718_1553.apk",
-                                "sha256":  "2240ed8c17e3d403b5fdebfe909f2d7dcd2038920cbb0514e7b4e32b08506abb",
+                                "versionName":  "1.6.21",
+                                "versionCode":  30,
+                                "buildTime":  "20260718_1628",
+                                "relativePath":  "payload/app-controller/app/build/outputs/apk/release/RGBController-release-1.6.21-30-20260718_1628.apk",
+                                "sha256":  "705cff7aba03fed1d460099831c454d5ca4233702cac41e968435e64d5ae4532",
                                 "sizeBytes":  11035444,
-                                "pageUrl":  "https://pan-aaa.github.io/RGB-/payload/app-controller/app/build/outputs/apk/release/RGBController-release-1.6.2-29-20260718_1553.apk",
-                                "rawUrl":  "https://raw.githubusercontent.com/pan-aaa/RGB-/master/payload/app-controller/app/build/outputs/apk/release/RGBController-release-1.6.2-29-20260718_1553.apk"
+                                "pageUrl":  "https://pan-aaa.github.io/RGB-/payload/app-controller/app/build/outputs/apk/release/RGBController-release-1.6.21-30-20260718_1628.apk",
+                                "rawUrl":  "https://raw.githubusercontent.com/pan-aaa/RGB-/master/payload/app-controller/app/build/outputs/apk/release/RGBController-release-1.6.21-30-20260718_1628.apk"
                             },
                 "debug":  {
                               "versionName":  "1.6.2",
