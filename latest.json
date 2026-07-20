@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAtUtc":  "2026-07-18T09:25:00.5501860Z",
+    "generatedAtUtc":  "2026-07-20T13:12:48.2841870Z",
     "sources":  {
                     "recommendedManifestUrl":  "https://pan-aaa.github.io/RGB-/latest.json",
                     "pagesManifestUrl":  "https://pan-aaa.github.io/RGB-/latest.json",
@@ -43,6 +43,14 @@
                                            "sizeBytes":  339808,
                                            "pageUrl":  "https://pan-aaa.github.io/RGB-/payload/esp8266-esp01s-rgb-control/build/esp8266.esp8266.generic/esp8266-esp01s-rgb-control.ino.bin",
                                            "rawUrl":  "https://raw.githubusercontent.com/pan-aaa/RGB-/master/payload/esp8266-esp01s-rgb-control/build/esp8266.esp8266.generic/esp8266-esp01s-rgb-control.ino.bin"
-                                       }
+                                       },
+                     "pilotlightEsp32":  {
+                                             "version":  "1.0.41",
+                                             "relativePath":  "payload/pilotlight-idf/build/pilotlight_esp32.bin",
+                                             "sha256":  "c6141809f463abd4f5b36a243921c83baa79b12e9169d86b2327676b08707da4",
+                                             "sizeBytes":  1584752,
+                                             "pageUrl":  "https://pan-aaa.github.io/RGB-/payload/pilotlight-idf/build/pilotlight_esp32.bin",
+                                             "rawUrl":  "https://raw.githubusercontent.com/pan-aaa/RGB-/master/payload/pilotlight-idf/build/pilotlight_esp32.bin"
+                                         }
                  }
 }

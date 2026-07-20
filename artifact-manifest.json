@@ -5,8 +5,18 @@
                        "branch":  "master",
                        "commit":  "0c8bd0c6e9358a71b1bd23efd10cbd2ed544749b"
                    },
-    "syncedAtUtc":  "2026-07-18T09:24:59.6409090Z",
-    "artifactCount":  4,
+    "additionalSources":  [
+                              {
+                                  "name":  "pilotlight-idf",
+                                  "path":  "D:\\esp32\\ESP32-IDF\\pilotlight-idf",
+                                  "remote":  "git@gitee.com:cat-fishing-fish/esp32-wroom-idf.git",
+                                  "branch":  "main",
+                                  "commit":  "e1d22d3ea34d6ad3428e9dab0c1093a74354aa5f",
+                                  "relativeArtifactPath":  "pilotlight-idf/build/pilotlight_esp32.bin"
+                              }
+                          ],
+    "syncedAtUtc":  "2026-07-20T13:12:46.8895022Z",
+    "artifactCount":  5,
     "files":  [
                   {
                       "relativePath":  "app-controller/app/build/outputs/apk/debug/RGBController-debug-1.6.21-30-20260718_1712.apk",
@@ -31,6 +41,12 @@
                       "sizeBytes":  339808,
                       "lastWriteUtc":  "2026-05-24T15:34:47.1490669Z",
                       "sha256":  "2da294f47fe0895f88422ec35af37c6b6f6b2a826447cae7f93ef82041217b11"
+                  },
+                  {
+                      "relativePath":  "pilotlight-idf/build/pilotlight_esp32.bin",
+                      "sizeBytes":  1584752,
+                      "lastWriteUtc":  "2026-07-20T11:41:19.6033891Z",
+                      "sha256":  "c6141809f463abd4f5b36a243921c83baa79b12e9169d86b2327676b08707da4"
                   }
               ]
 }
